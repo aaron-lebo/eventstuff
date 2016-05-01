@@ -10,7 +10,7 @@ def run(page):
         lis = soup.select('.toclevel-2')
 
     refs = lis.pop()
-    events = []
+    events = {} 
     for item in lis:
         if hasattr(item, 'name') and item.name:
             ps = []
@@ -53,7 +53,7 @@ def run(page):
                             event = ''
                             refs = []
 
-            events.append({item.a.contents[-1].text: ps}) 
+            events[item.a.contents[-1].text] = ps 
 
     return events
 

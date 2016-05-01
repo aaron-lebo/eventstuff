@@ -9,6 +9,14 @@ def run(page):
     lis = soup.select('.toclevel-1')
     refs = lis.pop()
     for li in lis:
+        if li.a['href'] in ('#References', '#See_also'):
+            continue
+
+        try:
+            li.contents[1]
+        except:
+            print li
+
         month = li.contents.pop(0).contents[-1].text
         contents = []
         for item in li.contents[1]:
@@ -47,11 +55,15 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
     if os.path.exists(path):
         continue
 
-    print page.title + ' START'
+    title = page.title
+    if '2015' in title or '2016' in title:
+        continue
+
+    print title + ' START'
 
     events = run(page)
     file = open(path, 'wb')
     file.write(json.dumps(events, sort_keys=True, indent=4))
     file.close()
 
-    print page.title + ' END'
+    print title + ' END'

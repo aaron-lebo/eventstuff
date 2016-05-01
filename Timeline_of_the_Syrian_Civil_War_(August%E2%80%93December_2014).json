@@ -6,6 +6,7 @@
                 "refs": [
                     {
                         "href": "http://www.usnews.com/news/world/articles/2014/08/07/lebanese-free-7-soldiers-held-by-syria-militants", 
+                        "source": "US News & World Report", 
                         "text": "Syria militants leave Lebanese border town - US News"
                     }
                 ]
@@ -19,10 +20,12 @@
                 "refs": [
                     {
                         "href": "http://www.dailysabah.com/mideast/2014/08/15/isis-kills-dozens-of-syrian-rebels-after-seizing-two-towns-near-aleppo", 
+                        "source": "dailysabah.com", 
                         "text": "ISIS kills dozens of Syrian rebels after seizing two towns near Aleppo - MidEast - Daily Sabah"
                     }, 
                     {
                         "href": "http://www.france24.com/en/20140813-isis-militants-seize-towns-syrias-aleppo-province/", 
+                        "source": "France 24", 
                         "text": "Middle East - ISIS militants seize towns in Syria's Aleppo province - France 24"
                     }
                 ]
@@ -36,6 +39,7 @@
                 "refs": [
                     {
                         "href": "http://www.washingtonpost.com/posteverything/wp/2014/08/18/the-terrorists-fighting-us-now-we-just-finished-training-them/", 
+                        "source": "The Washington Post", 
                         "text": "The terrorists fighting us now? We just finished training them."
                     }
                 ]
@@ -49,10 +53,12 @@
                 "refs": [
                     {
                         "href": "http://www.ibtimes.co.uk/breaking-isis-rebels-syria-seize-taqba-airport-1462454", 
+                        "source": "International Business Times UK", 
                         "text": "Isis Rebels In Syria Seize Tabqa Airbase"
                     }, 
                     {
                         "href": "http://online.wsj.com/articles/islamic-state-captures-major-air-base-in-syria-from-government-1408895103", 
+                        "source": "WSJ", 
                         "text": "Islamic State Captures Major Air Base in Syria From Government"
                     }
                 ]
@@ -66,6 +72,7 @@
                 "refs": [
                     {
                         "href": "https://now.mmedia.me/lb/en/nowsyrialatestnews/561644-rebels-take-syria-crossing-with-israel-occupied-golan", 
+                        "source": null, 
                         "text": "Rebels take Syria crossing with Israel-occupied Golan"
                     }
                 ]
@@ -79,6 +86,7 @@
                 "refs": [
                     {
                         "href": "https://now.mmedia.me/lb/en/lebanonnews/561632-syrian-air-force-strikes-arsal-border-region", 
+                        "source": null, 
                         "text": "Syrian Air Force strikes Arsal border region"
                     }
                 ]
@@ -92,10 +100,12 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/Middle-East/Errant-gun-fire-from-Syria-seriously-wounds-IDF-officer-372482", 
+                        "source": null, 
                         "text": "IDF fires artillery at Syrian army post after cross-border gun fire wounds Israeli officer"
                     }, 
                     {
                         "href": "http://www.haaretz.com/news/diplomacy-defense/.premium-1.612717", 
+                        "source": "Haaretz.com", 
                         "text": "IDF fires at Syria army position after officer wounded by errant fire"
                     }
                 ]
@@ -105,6 +115,7 @@
                 "refs": [
                     {
                         "href": "http://online.wsj.com/articles/rebels-in-syria-capture-border-crossing-by-israel-1409166944", 
+                        "source": ", ", 
                         "text": "Rebels in Syria Capture Border Crossing With Israel"
                     }
                 ]
@@ -118,6 +129,7 @@
                 "refs": [
                     {
                         "href": "http://www.npr.org/2014/08/28/344036575/rebels-storm-key-border-crossing-between-syria-and-israel", 
+                        "source": "NPR.org", 
                         "text": "Rebels Storm Key Border Crossing Between Syria And Israel"
                     }
                 ]
@@ -127,10 +139,12 @@
                 "refs": [
                     {
                         "href": "http://syriahr.com/index.php?option=com_news&nid=22581&Itemid=2&task=displaynews#.U_8tefl_vxo", 
+                        "source": "\u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646", 
                         "text": "\u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 - \u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646"
                     }, 
                     {
                         "href": "http://www.channelnewsasia.com/news/is-executes-more-than-160/1334190.html", 
+                        "source": "Channel NewsAsia", 
                         "text": "IS executes \"more than 160\" Syria troops in new atrocity"
                     }
                 ]
@@ -140,6 +154,7 @@
                 "refs": [
                     {
                         "href": "http://www.vesti.ru/doc.html?id=1926171&tid=95994", 
+                        "source": " (in Russian). Vesti.ru. 28 August 2014", 
                         "text": "\u0421\u0438\u0440\u0438\u0439\u0441\u043a\u0438\u0435 \u0441\u0430\u043c\u043e\u043b\u0435\u0442\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b\u0438 \u0431\u0430\u0437\u0443 \u0438\u0441\u043b\u0430\u043c\u0438\u0441\u0442\u043e\u0432 \u0443 \u043f\u043b\u043e\u0442\u0438\u043d\u044b \u043d\u0430 \u0415\u0444\u0440\u0430\u0442\u0435"
                     }
                 ]
@@ -149,6 +164,7 @@
                 "refs": [
                     {
                         "href": "http://www.channelnewsasia.com/news/is-executes-more-than-160/1334190.html", 
+                        "source": "Channel NewsAsia", 
                         "text": "IS executes \"more than 160\" Syria troops in new atrocity"
                     }
                 ]
@@ -162,22 +178,27 @@
                 "refs": [
                     {
                         "href": "http://uk.reuters.com/article/2014/09/01/uk-syria-crisis-quneitra-fighting-idUKKBN0GW1CH20140901", 
+                        "source": null, 
                         "text": "Syrian army, rebels fight on Golan where peacekeepers held"
                     }, 
                     {
                         "href": "https://www.youtube.com/watch?v=VEmZYgzotuc", 
+                        "source": "YouTube", 
                         "text": "Syria: Army escalates efforts to recapture Jobar"
                     }, 
                     {
                         "href": "http://english.farsnews.com/newstext.aspx?nn=13930610000745", 
+                        "source": null, 
                         "text": "Farsnews"
                     }, 
                     {
                         "href": "http://www.dailymail.co.uk/video/news/video-1116477/Syrian-army-advances-Jobar-fighting-rages-on.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490", 
+                        "source": "Mail Online", 
                         "text": "Syrian army advances in Jobar as fighting rages on - Daily Mail Online"
                     }, 
                     {
                         "href": "http://www.eni.network24.co/india/syria-army-battles-rebels-as-un-bids-to-free-golan-monitors-17922_6", 
+                        "source": "www.eni.network24.co", 
                         "text": "Syria army battles rebels as UN bids to free Golan monitors"
                     }
                 ]
@@ -187,10 +208,12 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Lebanon-News/2014/Sep-03/269438-hezbollah-syrian-troops-kill-nusra-front-commander.ashx", 
+                        "source": "The Daily Star Newspaper - Lebanon", 
                         "text": "Hezbollah, Syrian troops kill Nusra Front commander"
                     }, 
                     {
                         "href": "http://www.almanar.com.lb/english/adetails.php?eid=169046&frid=23&seccatid=20&cid=23&fromval=1", 
+                        "source": null, 
                         "text": "Syrian Army Ambushes Terrorist Convoy in Qalamoun, Strikes ISIL in Deir Ezour"
                     }
                 ]
@@ -200,6 +223,7 @@
                 "refs": [
                     {
                         "href": "http://www.almasdarnews.com/article/deir-ez-zor-erupts-violence-firefights-ongoing-deir-ez-zor-military-airport/", 
+                        "source": "Al-Masdar", 
                         "text": "Deir ez-Zor Erupts in Violence; Firefights Ongoing at the Deir ez-Zor Military Airport"
                     }
                 ]
@@ -209,6 +233,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/Middle-East/Syrian-army-kills-18-foreign-Islamic-State-fighters-including-one-American-jihadist-374539", 
+                        "source": null, 
                         "text": "Syrian army kills 18 foreign ISIL fighters, including one American jihadist"
                     }
                 ]
@@ -218,6 +243,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2014/09/06/us-lebanon-security-idUSKBN0H10KO20140906", 
+                        "source": "Reuters", 
                         "text": "Islamic State says executes second Lebanese soldier"
                     }
                 ]
@@ -227,6 +253,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2014/09/06/us-syria-crisis-idUSKBN0H10AV20140906", 
+                        "source": "Reuters", 
                         "text": "Syrian warplanes hit Islamic State-run bakery, training camp: monitor"
                     }
                 ]
@@ -240,6 +267,7 @@
                 "refs": [
                     {
                         "href": "https://www.facebook.com/syriahroe/posts/580880042020338", 
+                        "source": null, 
                         "text": "Al Qunaytera Province: 9-9-2014"
                     }
                 ]
@@ -249,6 +277,7 @@
                 "refs": [
                     {
                         "href": "http://syriahr.com/index.php?option=com_news&nid=23188&Itemid=2&task=displaynews#.VA7w6vl_v94", 
+                        "source": "\u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646", 
                         "text": "\u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 - \u0627\u0644\u0645\u0631\u0635\u062f \u0627\u0644\u0633\u0648\u0631\u0649 \u0644\u062d\u0642\u0648\u0642 \u0627\u0644\u0625\u0646\u0633\u0627\u0646"
                     }
                 ]
@@ -258,6 +287,7 @@
                 "refs": [
                     {
                         "href": "https://www.facebook.com/syriahroe/posts/581243318650677", 
+                        "source": null, 
                         "text": "Daraa province: 10-9-2014"
                     }
                 ]
@@ -267,6 +297,7 @@
                 "refs": [
                     {
                         "href": "http://syriahr.com/index.php?option=com_news&nid=23205&Itemid=2&task=displaynews#.VA-T_Pl_v94", 
+                        "source": null, 
                         "text": "About 70\u00a0% of the villages and towns in Quneitra under rebel control"
                     }
                 ]
@@ -280,6 +311,7 @@
                 "refs": [
                     {
                         "href": "http://www.theguardian.com/world/2014/sep/10/obama-speech-authorise-air-strikes-against-isis-syria", 
+                        "source": "the Guardian", 
                         "text": "Barack Obama authorises air strikes against Isis militants in Syria"
                     }
                 ]
@@ -289,6 +321,7 @@
                 "refs": [
                     {
                         "href": "http://uk.reuters.com/article/2014/09/12/uk-syria-crisis-hama-idUKKBN0H71JE20140912", 
+                        "source": null, 
                         "text": "Syrian forces win battle with rebels in Hama"
                     }
                 ]
@@ -302,6 +335,7 @@
                 "refs": [
                     {
                         "href": "http://www.theguardian.com/world/2014/sep/14/cameron-air-strikes-isis-british-hostage-david-haines", 
+                        "source": "the Guardian", 
                         "text": "Cameron hails David Haines as 'British hero' and vows to hunt down killers"
                     }
                 ]
@@ -311,6 +345,7 @@
                 "refs": [
                     {
                         "href": "http://www.middleeasteye.net/news/syria-1651994714", 
+                        "source": "Middle East Eye", 
                         "text": "Free Syrian Army will not join US-led coalition against IS"
                     }
                 ]
@@ -324,6 +359,7 @@
                 "refs": [
                     {
                         "href": "http://www.todayonline.com/world/syrian-army-destroys-islamic-state-controlled-bridge", 
+                        "source": "TODAYonline", 
                         "text": "Syrian army destroys Islamic State-controlled bridge"
                     }
                 ]
@@ -337,18 +373,22 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-29253894", 
+                        "source": "BBC News", 
                         "text": "BBC News - Syrian army says it is taking on Islamic State extremists"
                     }, 
                     {
                         "href": "http://www.theguardian.com/world/2014/sep/18/islamic-state-isis-militants-seize-kurdish-villages-northern-syria", 
+                        "source": "the Guardian", 
                         "text": "Islamic State militants seize Kurdish villages in northern Syria"
                     }, 
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2014/Sep-18/271089-isis-captures-16-kurdish-villages-in-northern-syria.ashx#axzz3DgTbE2VY", 
+                        "source": "The Daily Star Newspaper - Lebanon", 
                         "text": "ISIS seizes 16 Kurdish villages in north Syria: Kurds"
                     }, 
                     {
                         "href": "http://www.huffingtonpost.com/2014/09/18/islamic-state-syria_n_5841508.html", 
+                        "source": "The Huffington Post", 
                         "text": "Islamic State Seizes Syrian And Kurdish Villages In Major Assault"
                     }
                 ]
@@ -362,6 +402,7 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2014/Sep-23/271659-us-syria-raids-also-aimed-at-thwarting-attack-plot-pentagon.ashx#axzz3DmiczHPM", 
+                        "source": "The Daily Star Newspaper - Lebanon", 
                         "text": "US Syria raids also aimed at thwarting attack plot: Pentagon"
                     }
                 ]
@@ -371,14 +412,17 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-29330395", 
+                        "source": "BBC News", 
                         "text": "BBC News - Al-Qaeda Khorasan cell in Syria attack 'was imminent'"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-29333348", 
+                        "source": "BBC News", 
                         "text": "BBC News - IS strikes: Not America's fight alone - Obama"
                     }, 
                     {
                         "href": "http://www.ibtimes.com/us-bombs-islamic-states-raqqa-stronghold-syria-begins-degrade-destroy-strategy-1693341", 
+                        "source": "International Business Times", 
                         "text": "US Bombs Islamic State's Raqqa Stronghold In Syria, Begins 'Degrade And Destroy' Strategy"
                     }
                 ]
@@ -388,6 +432,7 @@
                 "refs": [
                     {
                         "href": "http://www.globalpost.com/dispatch/news/agencia-efe/140922/islamic-state-seizes-over-100-kurdish-villages-syria", 
+                        "source": "GlobalPost", 
                         "text": "Islamic State seizes over 100 Kurdish villages in Syria"
                     }
                 ]
@@ -401,14 +446,17 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11120171/US-strikes-Isils-lucrative-oil-facilities-in-Syria.html", 
+                        "source": "Telegraph.co.uk", 
                         "text": "US strikes Isil's lucrative oil facilities in Syria"
                     }, 
                     {
                         "href": "http://www.bloomberg.com/news/2014-09-24/islamic-state-oil-in-syria-said-to-be-hit-by-u-s-strikes.html", 
+                        "source": "Bloomberg", 
                         "text": "Islamic State Oil Refineries in Syria Hit in Airstrikes"
                     }, 
                     {
                         "href": "http://www.theguardian.com/world/2014/sep/25/analysis-syria-us-air-strikes-oil-wells", 
+                        "source": "the Guardian", 
                         "text": "US aims to wipe out Isis funding with air strikes on oil wells in Syria"
                     }
                 ]
@@ -422,14 +470,17 @@
                 "refs": [
                     {
                         "href": "http://www.almasdarnews.com/article/isis-begins-withdraw-tabqa-airbase-scores-isis-militants-killed-deir-ezzor/", 
+                        "source": "Al-Masdar News", 
                         "text": "ISIS Begins to Withdraw from the Tabqa Airbase: Scores of ISIS Militants Killed in Deir Ezzor"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/en/News/middle-east/2014/09/25/Source-Syria-takes-key-rebel-held-town-near-capital.html", 
+                        "source": null, 
                         "text": "http://english.alarabiya.net/en/News/middle-east/2014/09/25/Source-Syria-takes-key-rebel-held-town-near-capital.html"
                     }, 
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2014/Sep-25/271923-syrian-army-takes-key-rebel-held-town-near-capital-security-source.ashx#axzz3EL2OdRAU", 
+                        "source": "The Daily Star Newspaper - Lebanon", 
                         "text": "Syrian army extends grip in town northeast of Damascus"
                     }
                 ]
@@ -443,6 +494,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.com/news/world-middle-east-29390781", 
+                        "source": "BBC News", 
                         "text": "BBC News - US-led air strikes hit IS on Syria's border with Turkey"
                     }
                 ]
@@ -456,6 +508,7 @@
                 "refs": [
                     {
                         "href": "http://www.hurriyetdailynews.com/turkish-tanks-take-up-position-on-syrian-border-next-to-besieged-kurdish-town.aspx?pageID=238&nID=72319&NewsCatID=352", 
+                        "source": null, 
                         "text": "Turkish tanks take up position on Syrian border next to besieged Kurdish town - MIDEAST"
                     }
                 ]
@@ -469,6 +522,7 @@
                 "refs": [
                     {
                         "href": "http://news.yahoo.com/kurds-seize-iraq-syria-border-post-sunni-tribe-003339795.html", 
+                        "source": "news.yahoo.com", 
                         "text": "Kurds seize Iraq/Syria border post; Sunni tribe joins fight against Islamic State"
                     }
                 ]
@@ -490,6 +544,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2014/10/03/world/meast/syria-civil-war/", 
+                        "source": "CNN", 
                         "text": "Report: Syrian forces take villages in north Aleppo - CNN.com"
                     }
                 ]
@@ -519,6 +574,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2014/10/06/world/meast/isis-airstrikes/index.html?hpt=imi_c1", 
+                        "source": "CNN", 
                         "text": "ISIS set to capture Kobani, finish major land grab"
                     }
                 ]
@@ -544,6 +600,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2014/10/syria-rebels-take-strategic-hill-near-capital-201410645548879953.html", 
+                        "source": null, 
                         "text": "Syria rebels retake strategic hill near capital"
                     }
                 ]
@@ -557,6 +614,7 @@
                 "refs": [
                     {
                         "href": "http://news.yahoo.com/fighters-capture-kurd-hq-syrias-kobane-monitor-113638651.html", 
+                        "source": "Yahoo News", 
                         "text": "Jihadists seize Kurdish HQ in Syria's Kobane, massacre feared"
                     }
                 ]
@@ -570,10 +628,12 @@
                 "refs": [
                     {
                         "href": "http://www.almasdarnews.com/article/syrian-army-liberates-vital-city-east-ghouta/", 
+                        "source": "Al-Masdar News", 
                         "text": "Syrian Army Liberates Vital City in the East Ghouta"
                     }, 
                     {
                         "href": "http://www.almasdarnews.com/article/syrian-republican-guard-liberate-al-rayhan-liberation-jobar-coming/", 
+                        "source": "Al-Masdar News", 
                         "text": "Syrian Republican Guard Liberates Al-Rayhan; Liberation of Jobar is Coming"
                     }
                 ]
@@ -591,6 +651,7 @@
                 "refs": [
                     {
                         "href": "http://news.yahoo.com/kurds-thwart-syria-town-iraqi-forces-back-foot-112857419.html", 
+                        "source": "Yahoo News", 
                         "text": "Kurds thwart IS in Syria town but Iraq on back foot"
                     }
                 ]
@@ -600,6 +661,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/Breaking-News/Ten-Syrian-soldiers-killed-in-clashes-with-Islamic-State-378867", 
+                        "source": null, 
                         "text": "Ten Syrian soldiers killed in clashes with Islamic State"
                     }
                 ]
@@ -613,10 +675,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.com/news/world-middle-east-29647314", 
+                        "source": "BBC News", 
                         "text": "BBC News - Islamic State 'being driven out of Syria's Kobane'"
                     }, 
                     {
                         "href": "http://www.almasdarnews.com/article/battle-map-saa-captures-many-areas-aleppo/", 
+                        "source": "Al-Masdar News", 
                         "text": "Battle Map: SAA Captures Many Areas in Aleppo"
                     }
                 ]
@@ -638,6 +702,7 @@
                 "refs": [
                     {
                         "href": "http://uk.reuters.com/article/2014/10/24/uk-syria-crisis-military-idUKKCN0ID1DL20141024", 
+                        "source": ", Reuters, 24 October 2014.", 
                         "text": "Syrian army recaptures town in western Syria - state TV"
                     }
                 ]
@@ -651,6 +716,7 @@
                 "refs": [
                     {
                         "href": "http://www.theguardian.com/world/2014/nov/01/kurdish-peshmerga-kobani-isis-syria", 
+                        "source": null, 
                         "text": "Kurdish peshmerga forces arrive in Kobani to bolster fight against Isis"
                     }
                 ]
@@ -664,6 +730,7 @@
                 "refs": [
                     {
                         "href": "http://in.reuters.com/article/2014/11/03/mideast-crisis-homs-idINKBN0IN0ET20141103", 
+                        "source": null, 
                         "text": "Islamic State says seizes second gas field in Syria"
                     }
                 ]
@@ -677,6 +744,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/idUSKBN0IP1J320141105?irpc=932", 
+                        "source": null, 
                         "text": "Eleven children killed when mortars hit Damascus school: monitoring group"
                     }
                 ]
@@ -690,10 +758,12 @@
                 "refs": [
                     {
                         "href": "http://www.skynews.com.au/news/top-stories/2014/11/10/syria-rebels-and-al-qaeda-capture-key-town.html", 
+                        "source": null, 
                         "text": "http://www.skynews.com.au/news/top-stories/2014/11/10/syria-rebels-and-al-qaeda-capture-key-town.html"
                     }, 
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2014/Nov-09/276995-syria-rebels-nusra-capture-key-southern-town-monitor.ashx#axzz3IinBJb4Y", 
+                        "source": "The Daily Star Newspaper - Lebanon", 
                         "text": "Syria rebels, Nusra capture key southern town: monitor"
                     }
                 ]
@@ -707,6 +777,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.com/news/world-middle-east-30073602#", 
+                        "source": null, 
                         "text": "Abdul-Rahman Kassig: US hostage 'killed by IS'"
                     }
                 ]
@@ -720,6 +791,7 @@
                 "refs": [
                     {
                         "href": "http://www.israelnationalnews.com/News/Flash.aspx/309795#.VHLN2YvF_l5", 
+                        "source": null, 
                         "text": "Report: ISIS Downs Syrian Arab Army Plane in Deir Ezzor, Syria"
                     }
                 ]
@@ -729,6 +801,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2014/11/30/world/meast/syria-raqqa-fighting/index.html?hpt=hp_t1", 
+                        "source": "CNN", 
                         "text": "Raqqa, Syria, is new target for coalition airstrikes - CNN.com"
                     }
                 ]
@@ -750,6 +823,7 @@
                 "refs": [
                     {
                         "href": "http://www.nst.com.my/node/57357", 
+                        "source": "NST Online", 
                         "text": "Syria activists mourn \u2018death\u2019 of revolution"
                     }
                 ]
@@ -759,6 +833,7 @@
                 "refs": [
                     {
                         "href": "https://news.yahoo.com/islamic-state-group-attacking-kobani-turkey-102358724.html", 
+                        "source": "Yahoo News", 
                         "text": "Islamic State group attacks Kobani from Turkey"
                     }
                 ]
@@ -780,6 +855,7 @@
                 "refs": [
                     {
                         "href": "http://aranews.net/2014/12/syrian-rebels-advance-towards-damascus/", 
+                        "source": null, 
                         "text": "Syrian rebels advance towards Damascus"
                     }
                 ]
@@ -797,6 +873,7 @@
                 "refs": [
                     {
                         "href": "http://www.cbc.ca/news/world/un-food-program-suspended-for-1-7-million-syrian-refugees-1.2856928", 
+                        "source": null, 
                         "text": "UN food program suspended for 1.7 million Syrian refugees"
                     }
                 ]
@@ -810,10 +887,12 @@
                 "refs": [
                     {
                         "href": "http://www.independent.ie/world-news/middle-east/southern-rebels-sign-joint-defence-pact-30825785.html", 
+                        "source": "Independent.ie", 
                         "text": "Southern rebels sign joint defence pact"
                     }, 
                     {
                         "href": "http://www.reuters.com/article/2014/12/11/us-mideast-crisis-syria-idUSKBN0JP1FP20141211", 
+                        "source": "Reuters", 
                         "text": "Syria's southern rebels take step toward unity"
                     }
                 ]
@@ -823,6 +902,7 @@
                 "refs": [
                     {
                         "href": "http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/middleeast/2014/December/middleeast_December53.xml&section=middleeast", 
+                        "source": null, 
                         "text": "Syrian government forces repel ISIS attack on air base"
                     }
                 ]
@@ -836,6 +916,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-30370670", 
+                        "source": null, 
                         "text": "Israeli jets 'strike near Damascus'"
                     }
                 ]
@@ -849,6 +930,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2014/12/09/world/middleeast/un-seeks-164-billion-to-address-crises-in-2015.html", 
+                        "source": null, 
                         "text": "U.N. Seeks $16.4 Billion to Address 2015 Crises"
                     }
                 ]
@@ -862,6 +944,7 @@
                 "refs": [
                     {
                         "href": "http://www.mcclatchydc.com/2014/12/09/249556/rebels-in-northern-syria-say-us.html", 
+                        "source": null, 
                         "text": "National news from McClatchy DC News - Washington DC"
                     }
                 ]
@@ -871,6 +954,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.com/news/world-europe-30389859", 
+                        "source": null, 
                         "text": "Three Turkish soldiers 'killed by gunfire' on Syrian border"
                     }
                 ]
@@ -884,6 +968,7 @@
                 "refs": [
                     {
                         "href": "http://foreignpolicy.com/2014/12/10/state-dept-rebels-are-never-going-to-defeat-assad-militarily/", 
+                        "source": "Foreign Policy", 
                         "text": "State Dept: Rebels Are Never Going to Defeat Assad Militarily"
                     }
                 ]
@@ -897,10 +982,12 @@
                 "refs": [
                     {
                         "href": "http://www.almasdarnews.com/article/updated-battle-map-aleppo-nusra-repelled-al-zahra-nubl/", 
+                        "source": "Al-Masdar News", 
                         "text": "Updated Battle Map of Aleppo; Nusra Repelled at Al-Zahra and Nubl"
                     }, 
                     {
                         "href": "http://www.almasdarnews.com/article/breaking-news-jobars-east-district-syrian-army-fire-control/", 
+                        "source": "Al-Masdar News", 
                         "text": "Breaking News: Jobar's East District Under Syrian Army Fire Control"
                     }
                 ]
@@ -910,6 +997,7 @@
                 "refs": [
                     {
                         "href": "http://latino.foxnews.com/latino/news/2014/12/14/34-islamist-rebels-die-in-combat-with-syrian-army-in-aleppo/", 
+                        "source": null, 
                         "text": "34 Islamist rebels die in combat with Syrian army in Aleppo"
                     }
                 ]
@@ -923,10 +1011,12 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2014/12/16/world/middleeast/2-military-bases-in-syria-fall-to-rebels.html?_r=0", 
+                        "source": null, 
                         "text": "http://www.nytimes.com/2014/12/16/world/middleeast/2-military-bases-in-syria-fall-to-rebels.html?_r=0"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/en/News/middle-east/2014/12/15/Islamist-rebels-capture-2-army-bases-in-northwest-Syria.html", 
+                        "source": null, 
                         "text": "http://english.alarabiya.net/en/News/middle-east/2014/12/15/Islamist-rebels-capture-2-army-bases-in-northwest-Syria.html"
                     }
                 ]
@@ -940,6 +1030,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2014/12/16/us-mideast-crisis-base-idUSKBN0JU0WV20141216", 
+                        "source": null, 
                         "text": "Around 180 Syrian soldiers, jihadists reported killed in battle for base"
                     }
                 ]
@@ -953,6 +1044,7 @@
                 "refs": [
                     {
                         "href": "http://www.france24.com/en/20141219-turkey-begin-training-moderate-syrian-rebel-fighters-cavusoglu/", 
+                        "source": null, 
                         "text": "Turkey to 'start training' Syria's moderate rebels by March"
                     }
                 ]
@@ -962,6 +1054,7 @@
                 "refs": [
                     {
                         "href": "http://www.ynetnews.com/articles/0,7340,L-4605540,00.html", 
+                        "source": null, 
                         "text": "Watch: VICE news accompanies IDF unit giving medical aid to Syrian rebels"
                     }
                 ]
@@ -975,6 +1068,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.com/news/world-middle-east-30596474", 
+                        "source": null, 
                         "text": "IS captures Jordanian pilot after warplane crashes in Syria"
                     }
                 ]
@@ -988,6 +1082,7 @@
                 "refs": [
                     {
                         "href": "http://www.ibtimes.com/syrian-rebels-merge-levant-front-gain-ground-north-1767562", 
+                        "source": null, 
                         "text": "Syrian Rebels Merge Into 'Levant Front,' Gain Ground In North"
                     }
                 ]

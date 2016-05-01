@@ -28,11 +28,22 @@ def run(page):
                             a = soup.select('%s .external' % part.a['href'])
                             if a:
                                 a = a[0]
-                                refs.append({'text': a.text.strip('"'), 'href': a['href']})
+                                next_sib = a.next_sibling
+                                while next_sib and next_sib.string and next_sib.string.strip().startswith('.'):
+                                    next_sib = next_sib.next_sibling
+
+                                refs.append({
+                                    'text': a.text.strip('"'), 
+                                    'source': next_sib and next_sib.string, 
+                                    'href': a['href']
+                                })
                         else:
                             event += part.string 
                         if event.strip() and (not part.next_sibling or refs and part.next_sibling.name != 'sup'):
-                            ps.append({'event': event.strip(), 'refs': refs})
+                            ps.append({
+                                'event': event.strip(), 
+                                'refs': refs
+                            })
                             event = ''
                             refs = []
             events.append({item.a.contents[-1].text: ps}) 

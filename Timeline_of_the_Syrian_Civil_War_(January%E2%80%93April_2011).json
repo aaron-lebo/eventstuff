@@ -6,10 +6,12 @@
                 "refs": [
                     {
                         "href": "https://books.google.com/books?id=6Sh8AwAAQBAJ&pg=PA161&lpg=PA161&dq=qamishlo+protest+march+12,+2011&source=bl&ots=ORYo-JXMXG&sig=LzKtnTEU16F4Hb9tYF6JB6uMiyo&hl=en&sa=X&ved=0CC0Q6AEwAmoVChMIseCWtNSExwIVSRWSCh2dqAAr#v=onepage&q=qamishlo%20protest%20march%2012%2C%202011&f=false", 
+                        "source": "ISBN", 
                         "text": "Taking to the Streets: The Transformation of Arab Activism"
                     }, 
                     {
                         "href": "http://www.digitaljournal.com/article/329590", 
+                        "source": "Digital Journal", 
                         "text": "A recap of the Syrian crisis to date"
                     }
                 ]
@@ -19,6 +21,7 @@
                 "refs": [
                     {
                         "href": "http://www.msnbc.msn.com/id/41400687/ns/world_news-mideastn_africa/", 
+                        "source": null, 
                         "text": "'Day of Rage' Protest Urged in Syria"
                     }
                 ]
@@ -32,6 +35,7 @@
                 "refs": [
                     {
                         "href": "https://books.google.com/books?id=6Sh8AwAAQBAJ&pg=PA161&lpg=PA161&dq=qamishlo+protest+march+12,+2011&source=bl&ots=ORYo-JXMXG&sig=LzKtnTEU16F4Hb9tYF6JB6uMiyo&hl=en&sa=X&ved=0CC0Q6AEwAmoVChMIseCWtNSExwIVSRWSCh2dqAAr#v=onepage&q=qamishlo%20protest%20march%2012%2C%202011&f=false", 
+                        "source": "ISBN", 
                         "text": "Taking to the Streets: The Transformation of Arab Activism"
                     }
                 ]
@@ -41,10 +45,12 @@
                 "refs": [
                     {
                         "href": "https://books.google.com/books?id=6Sh8AwAAQBAJ&pg=PA161&lpg=PA161&dq=qamishlo+protest+march+12,+2011&source=bl&ots=ORYo-JXMXG&sig=LzKtnTEU16F4Hb9tYF6JB6uMiyo&hl=en&sa=X&ved=0CC0Q6AEwAmoVChMIseCWtNSExwIVSRWSCh2dqAAr#v=onepage&q=qamishlo%20protest%20march%2012%2C%202011&f=false", 
+                        "source": "ISBN", 
                         "text": "Taking to the Streets: The Transformation of Arab Activism"
                     }, 
                     {
                         "href": "http://www.digitaljournal.com/article/329590", 
+                        "source": "Digital Journal", 
                         "text": "A recap of the Syrian crisis to date"
                     }
                 ]
@@ -54,6 +60,7 @@
                 "refs": [
                     {
                         "href": "http://www.thenational.ae/news/worldwide/middle-east/syrian-mp-calls-for-review-of-harsh-emergency-laws", 
+                        "source": null, 
                         "text": "Syrian MP calls for review of harsh emergency laws"
                     }
                 ]
@@ -67,6 +74,7 @@
                 "refs": [
                     {
                         "href": "http://www.zeit.de/politik/ausland/2011-03/syrien-unruhen", 
+                        "source": null, 
                         "text": "Das syrische Regime l\u00e4sst auf Demonstranten feuern"
                     }
                 ]
@@ -76,14 +84,17 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2076778,00.html", 
+                        "source": "Time", 
                         "text": "Inside Syria's Slaughter: A Journalist Sneaks into Dara'a, the 'Ghetto of Death'"
                     }, 
                     {
                         "href": "http://www.zeit.de/politik/ausland/2011-03/syrien-unruhen", 
+                        "source": null, 
                         "text": "Das syrische Regime l\u00e4sst auf Demonstranten feuern"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13855203", 
+                        "source": "BBC", 
                         "text": "Guide: Syria Crisis"
                     }
                 ]
@@ -93,10 +104,12 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2076778,00.html", 
+                        "source": "Time", 
                         "text": "Inside Syria's Slaughter: A Journalist Sneaks into Dara'a, the 'Ghetto of Death'"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13855203", 
+                        "source": "BBC", 
                         "text": "Guide: Syria Crisis"
                     }
                 ]
@@ -106,6 +119,7 @@
                 "refs": [
                     {
                         "href": "http://www.zeit.de/politik/ausland/2011-03/syrien-unruhen", 
+                        "source": null, 
                         "text": "Das syrische Regime l\u00e4sst auf Demonstranten feuern"
                     }
                 ]
@@ -115,6 +129,7 @@
                 "refs": [
                     {
                         "href": "http://www.marxist.com/syria-prisoners-of-conscience-declare-hunger-strike.htm", 
+                        "source": null, 
                         "text": "Syria: Prisoners of Conscience in Damascus Central Prison declare hunger strike"
                     }
                 ]
@@ -124,6 +139,7 @@
                 "refs": [
                     {
                         "href": "http://www.digitaljournal.com/article/329590", 
+                        "source": "Digital Journal", 
                         "text": "A recap of the Syrian crisis to date"
                     }
                 ]
@@ -133,6 +149,7 @@
                 "refs": [
                     {
                         "href": "http://www.marxist.com/syria-prisoners-of-conscience-declare-hunger-strike.htm", 
+                        "source": null, 
                         "text": "Syria: Prisoners of Conscience in Damascus Central Prison declare hunger strike"
                     }
                 ]
@@ -142,14 +159,17 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12757394", 
+                        "source": "BBC Online", 
                         "text": "BBC News \u2013 Middle East unrest: Syria arrests Damascus protesters"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12749674", 
+                        "source": null, 
                         "text": "Mid-East unrest: Syrian protests in Damascus and Aleppo"
                     }, 
                     {
                         "href": "http://www.rfi.fr/moyen-orient/20110505-le-mouvement-contestation-flechit-pas", 
+                        "source": ", RFI, 5 May 2011. Retrieved 20 September 2013.", 
                         "text": "Le mouvement de contestation ne fl\u00e9chit pas en Syrie"
                     }
                 ]
@@ -159,6 +179,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/19/world/middleeast/19syria.html?_r=0", 
+                        "source": "New York Times", 
                         "text": "In Syria, Crackdown After Protests"
                     }
                 ]
@@ -168,6 +189,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12749674", 
+                        "source": null, 
                         "text": "Mid-East unrest: Syrian protests in Damascus and Aleppo"
                     }
                 ]
@@ -181,6 +203,7 @@
                 "refs": [
                     {
                         "href": "http://www.digitaljournal.com/article/329590", 
+                        "source": "Digital Journal", 
                         "text": "A recap of the Syrian crisis to date"
                     }
                 ]
@@ -190,6 +213,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/19/world/middleeast/19syria.html?_r=0", 
+                        "source": "New York Times", 
                         "text": "In Syria, Crackdown After Protests"
                     }
                 ]
@@ -199,10 +223,12 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/19/world/middleeast/19syria.html?_r=0", 
+                        "source": "New York Times", 
                         "text": "In Syria, Crackdown After Protests"
                     }, 
                     {
                         "href": "https://www.youtube.com/watch?v=oC55uPBKYqU", 
+                        "source": null, 
                         "text": "Violence flares at Syrian protest"
                     }
                 ]
@@ -212,6 +238,7 @@
                 "refs": [
                     {
                         "href": "http://www.orf.at/stories/2048675/", 
+                        "source": " (in German). ORF. 20 March 2011", 
                         "text": "Erneut Dutzende Verletzte bei Protesten in Syrien"
                     }
                 ]
@@ -221,6 +248,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/20/world/middleeast/20syria.html", 
+                        "source": "The New York Times", 
                         "text": "Syrian Police Attack Marchers at Funerals"
                     }
                 ]
@@ -230,6 +258,7 @@
                 "refs": [
                     {
                         "href": "http://www.orf.at/stories/2048675/", 
+                        "source": " (in German). ORF. 20 March 2011", 
                         "text": "Erneut Dutzende Verletzte bei Protesten in Syrien"
                     }
                 ]
@@ -239,10 +268,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13855203", 
+                        "source": "BBC", 
                         "text": "Guide: Syria Crisis"
                     }, 
                     {
                         "href": "http://www.orf.at/stories/2048675/", 
+                        "source": " (in German). ORF. 20 March 2011", 
                         "text": "Erneut Dutzende Verletzte bei Protesten in Syrien"
                     }
                 ]
@@ -252,6 +283,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/20/world/middleeast/20syria.html", 
+                        "source": "The New York Times", 
                         "text": "Syrian Police Attack Marchers at Funerals"
                     }
                 ]
@@ -261,6 +293,7 @@
                 "refs": [
                     {
                         "href": "http://www.orf.at/stories/2048675/", 
+                        "source": " (in German). ORF. 20 March 2011", 
                         "text": "Erneut Dutzende Verletzte bei Protesten in Syrien"
                     }
                 ]
@@ -270,6 +303,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/20/world/middleeast/20syria.html", 
+                        "source": "The New York Times", 
                         "text": "Syrian Police Attack Marchers at Funerals"
                     }
                 ]
@@ -279,6 +313,7 @@
                 "refs": [
                     {
                         "href": "http://www.israelnationalnews.com/News/News.aspx/143026#.TskzPVaGiSr", 
+                        "source": ", israelnationalnews, 21 March 2011. Retrieved 6 October 2013.", 
                         "text": "Syria: Seven Police Killed, Buildings Torched in Protests"
                     }
                 ]
@@ -288,6 +323,7 @@
                 "refs": [
                     {
                         "href": "http://www.israelnationalnews.com/News/News.aspx/143026#.TskzPVaGiSr", 
+                        "source": ", israelnationalnews, 21 March 2011. Retrieved 6 October 2013.", 
                         "text": "Syria: Seven Police Killed, Buildings Torched in Protests"
                     }
                 ]
@@ -297,6 +333,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/21/world/middleeast/21syria.html", 
+                        "source": "New York Times", 
                         "text": "Officers Fire on Crowd as Syrian Protests Grow"
                     }
                 ]
@@ -306,10 +343,12 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/21/world/middleeast/21syria.html", 
+                        "source": "New York Times", 
                         "text": "Officers Fire on Crowd as Syrian Protests Grow"
                     }, 
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/03/2011320113138901721.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria protesters torch buildings"
                     }
                 ]
@@ -319,6 +358,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/21/world/middleeast/21syria.html", 
+                        "source": "New York Times", 
                         "text": "Officers Fire on Crowd as Syrian Protests Grow"
                     }
                 ]
@@ -328,10 +368,12 @@
                 "refs": [
                     {
                         "href": "http://www.yalibnan.com/2011/03/21/protests-spread-to-southern-syrian-town-jassem/", 
+                        "source": "Ya Libnan", 
                         "text": "Protests spread to southern Syrian town Jassem"
                     }, 
                     {
                         "href": "http://derstandard.at/1297820966175/Protestbewegung-dehnt-sich-aus", 
+                        "source": null, 
                         "text": "Protestbewegung dehnt sich aus"
                     }
                 ]
@@ -341,6 +383,7 @@
                 "refs": [
                     {
                         "href": "http://derstandard.at/1297820966175/Protestbewegung-dehnt-sich-aus", 
+                        "source": null, 
                         "text": "Protestbewegung dehnt sich aus"
                     }
                 ]
@@ -350,6 +393,7 @@
                 "refs": [
                     {
                         "href": "http://www.zeit.de/politik/ausland/2011-03/syrien-unruhen", 
+                        "source": null, 
                         "text": "Das syrische Regime l\u00e4sst auf Demonstranten feuern"
                     }
                 ]
@@ -359,6 +403,7 @@
                 "refs": [
                     {
                         "href": "http://www.zeit.de/politik/ausland/2011-03/syrien-unruhen", 
+                        "source": null, 
                         "text": "Das syrische Regime l\u00e4sst auf Demonstranten feuern"
                     }
                 ]
@@ -368,6 +413,7 @@
                 "refs": [
                     {
                         "href": "http://www.irishtimes.com/newspaper/world/2011/0322/1224292773018.html", 
+                        "source": "The Irish Times", 
                         "text": "US condemns Syria crackdown"
                     }
                 ]
@@ -377,10 +423,12 @@
                 "refs": [
                     {
                         "href": "http://www.yalibnan.com/2011/03/21/protests-spread-to-southern-syrian-town-jassem/", 
+                        "source": "Ya Libnan", 
                         "text": "Protests spread to southern Syrian town Jassem"
                     }, 
                     {
                         "href": "http://af.reuters.com/article/worldNews/idAFTRE72K6MP20110321", 
+                        "source": null, 
                         "text": "Allies desert Yemeni leader, Syria protests spread"
                     }
                 ]
@@ -390,18 +438,22 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/03/24/world/middleeast/24syria.html", 
+                        "source": "The New York Times", 
                         "text": "'Protesters Are Killed in Syrian Crackdown'"
                     }, 
                     {
                         "href": "http://orf.at/stories/2049141/", 
+                        "source": " (in German). ORF. 23 March 2011", 
                         "text": "Syrien: Sicherheitskr\u00e4fte t\u00f6ten sechs Demonstranten"
                     }, 
                     {
                         "href": "http://www.suntimes.com/news/world/4472184-418/15-killed-in-clashes-in-southern-syria.html", 
+                        "source": "Chicago Sun-Times", 
                         "text": "15 killed in clashes in southern Syria"
                     }, 
                     {
                         "href": "http://www.bloomberg.com/news/2011-03-23/four-people-killed-in-renewed-unrest-in-southern-syrian-town.html", 
+                        "source": null, 
                         "text": "Four People Killed in Renewed Unrest in Southern Syrian Town"
                     }
                 ]
@@ -411,6 +463,7 @@
                 "refs": [
                     {
                         "href": "http://www.suntimes.com/news/world/4472184-418/15-killed-in-clashes-in-southern-syria.html", 
+                        "source": "Chicago Sun-Times", 
                         "text": "15 killed in clashes in southern Syria"
                     }
                 ]
@@ -420,6 +473,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/03/201132475046579830.html", 
+                        "source": "Al Jazeera", 
                         "text": "Anger in Syria over crackdown"
                     }
                 ]
@@ -433,6 +487,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/03/201132616546326475.html", 
+                        "source": "Al Jazeera", 
                         "text": "\u2019Syrian protesters target Baath Party offices\u2019/\u2019Deaths as Syria protests spread\u2019"
                     }
                 ]
@@ -442,6 +497,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12870679", 
+                        "source": null, 
                         "text": "\u2018Syria turmoil: Political inmates \u2018freed\u2019 after protests\u2019"
                     }
                 ]
@@ -451,6 +507,7 @@
                 "refs": [
                     {
                         "href": "http://www.washingtonpost.com/world/syrias-assad-moves-to-allay-fury-after-security-forces-fire-on-protesters/2011/03/26/AFFoZDdB_story.html", 
+                        "source": ", ", 
                         "text": "\u2018Syria\u2019s Assad moves to allay fury after security forces fire on protesters\u2019"
                     }
                 ]
@@ -460,6 +517,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12870679", 
+                        "source": null, 
                         "text": "\u2018Syria turmoil: Political inmates \u2018freed\u2019 after protests\u2019"
                     }
                 ]
@@ -469,10 +527,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-12870679", 
+                        "source": null, 
                         "text": "\u2018Syria turmoil: Political inmates \u2018freed\u2019 after protests\u2019"
                     }, 
                     {
                         "href": "http://www.washingtonpost.com/world/syrias-assad-moves-to-allay-fury-after-security-forces-fire-on-protesters/2011/03/26/AFFoZDdB_story.html", 
+                        "source": ", ", 
                         "text": "\u2018Syria\u2019s Assad moves to allay fury after security forces fire on protesters\u2019"
                     }
                 ]
@@ -482,6 +542,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2011/mar/27/report-12-killed-syrian-port-city", 
+                        "source": "The Guardian", 
                         "text": "US will not intervene in Syria as it has in Libya, says Hillary Clinton"
                     }
                 ]
@@ -491,6 +552,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2011/mar/27/report-12-killed-syrian-port-city", 
+                        "source": "The Guardian", 
                         "text": "US will not intervene in Syria as it has in Libya, says Hillary Clinton"
                     }
                 ]
@@ -500,6 +562,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2011/mar/27/report-12-killed-syrian-port-city", 
+                        "source": "The Guardian", 
                         "text": "US will not intervene in Syria as it has in Libya, says Hillary Clinton"
                     }
                 ]
@@ -509,6 +572,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2011/mar/27/report-12-killed-syrian-port-city", 
+                        "source": "The Guardian", 
                         "text": "US will not intervene in Syria as it has in Libya, says Hillary Clinton"
                     }
                 ]
@@ -518,10 +582,12 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/03/2011330135615434966.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria's Assad warns of 'conspiracy'"
                     }, 
                     {
                         "href": "http://www.al-bab.com/arab/docs/syria/bashar_assad_speech_110330.htm", 
+                        "source": ", translation as given on website ", 
                         "text": "Full text of the speech by President Bashar al-Assad on 30 March 2011"
                     }
                 ]
@@ -531,6 +597,7 @@
                 "refs": [
                     {
                         "href": "http://www.newrepublic.com/article/115993/bashar-al-assad-profile-syrias-mass-murderer", 
+                        "source": "The New Republic", 
                         "text": "Bashar Al Assad: An Intimate Profile of a Mass Murderer"
                     }
                 ]
@@ -540,6 +607,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/03/2011330135615434966.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria's Assad warns of 'conspiracy'"
                     }
                 ]
@@ -549,6 +617,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/02/world/middleeast/02syria.html?ref=world", 
+                        "source": "New York Times", 
                         "text": "Syrian Protesters Clash With Security Forces"
                     }
                 ]
@@ -558,6 +627,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/02/world/middleeast/02syria.html?ref=world", 
+                        "source": "New York Times", 
                         "text": "Syrian Protesters Clash With Security Forces"
                     }
                 ]
@@ -567,6 +637,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/20114211257594538.html", 
+                        "source": null, 
                         "text": "Many arrested in Syria after protests"
                     }
                 ]
@@ -576,6 +647,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/02/world/middleeast/02syria.html?ref=world", 
+                        "source": "New York Times", 
                         "text": "Syrian Protesters Clash With Security Forces"
                     }
                 ]
@@ -589,6 +661,7 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2076778,00.html", 
+                        "source": "Time", 
                         "text": "Inside Syria's Slaughter: A Journalist Sneaks into Dara'a, the 'Ghetto of Death'"
                     }
                 ]
@@ -598,6 +671,7 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2076778,00.html", 
+                        "source": "Time", 
                         "text": "Inside Syria's Slaughter: A Journalist Sneaks into Dara'a, the 'Ghetto of Death'"
                     }
                 ]
@@ -607,6 +681,7 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2076778,00.html", 
+                        "source": "Time", 
                         "text": "Inside Syria's Slaughter: A Journalist Sneaks into Dara'a, the 'Ghetto of Death'"
                     }
                 ]
@@ -616,6 +691,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/02/world/middleeast/02syria.html?ref=world", 
+                        "source": "New York Times", 
                         "text": "Syrian Protesters Clash With Security Forces"
                     }
                 ]
@@ -625,6 +701,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/20114211257594538.html", 
+                        "source": null, 
                         "text": "Many arrested in Syria after protests"
                     }
                 ]
@@ -634,6 +711,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/02/world/middleeast/02syria.html?ref=world", 
+                        "source": "New York Times", 
                         "text": "Syrian Protesters Clash With Security Forces"
                     }
                 ]
@@ -643,6 +721,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/20114211257594538.html", 
+                        "source": null, 
                         "text": "Many arrested in Syria after protests"
                     }
                 ]
@@ -652,6 +731,7 @@
                 "refs": [
                     {
                         "href": "http://www.thenational.ae/news/worldwide/syria-president-appoints-new-government-orders-protesters-freed-from-jail", 
+                        "source": "The National (Abu Dhabi)", 
                         "text": "Syria president appoints new government, orders protesters freed from jail"
                     }
                 ]
@@ -661,6 +741,7 @@
                 "refs": [
                     {
                         "href": "http://www.thenational.ae/news/worldwide/syria-president-appoints-new-government-orders-protesters-freed-from-jail", 
+                        "source": "The National (Abu Dhabi)", 
                         "text": "Syria president appoints new government, orders protesters freed from jail"
                     }
                 ]
@@ -670,6 +751,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/201141511585431229.html", 
+                        "source": "Al Jazeera", 
                         "text": "Thousands take to streets in Syria protests"
                     }
                 ]
@@ -679,6 +761,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13029631", 
+                        "source": "BBC", 
                         "text": "Syria unrest: Shooting erupts in seaport of Baniyas"
                     }
                 ]
@@ -688,14 +771,17 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13084656", 
+                        "source": null, 
                         "text": "Syria: President Assad forms new government"
                     }, 
                     {
                         "href": "http://www.thenational.ae/news/worldwide/syria-president-appoints-new-government-orders-protesters-freed-from-jail", 
+                        "source": "The National (Abu Dhabi)", 
                         "text": "Syria president appoints new government, orders protesters freed from jail"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13029631", 
+                        "source": "BBC", 
                         "text": "Syria unrest: Shooting erupts in seaport of Baniyas"
                     }
                 ]
@@ -705,10 +791,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13084656", 
+                        "source": null, 
                         "text": "Syria: President Assad forms new government"
                     }, 
                     {
                         "href": "http://www.thenational.ae/news/worldwide/syria-president-appoints-new-government-orders-protesters-freed-from-jail", 
+                        "source": "The National (Abu Dhabi)", 
                         "text": "Syria president appoints new government, orders protesters freed from jail"
                     }
                 ]
@@ -718,6 +806,7 @@
                 "refs": [
                     {
                         "href": "http://www.thenational.ae/news/worldwide/syria-president-appoints-new-government-orders-protesters-freed-from-jail", 
+                        "source": "The National (Abu Dhabi)", 
                         "text": "Syria president appoints new government, orders protesters freed from jail"
                     }
                 ]
@@ -727,6 +816,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/201141511585431229.html", 
+                        "source": "Al Jazeera", 
                         "text": "Thousands take to streets in Syria protests"
                     }
                 ]
@@ -740,6 +830,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2011/04/20114161511286268.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria to lift emergency law"
                     }
                 ]
@@ -749,10 +840,12 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2011/04/16/us-syria-idUSTRE72N2MC20110416", 
+                        "source": null, 
                         "text": "Syria's Assad vows to lift emergency law by next week"
                     }, 
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/20114161511286268.html", 
+                        "source": null, 
                         "text": "Syria to lift emergency law"
                     }
                 ]
@@ -762,6 +855,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2011/04/20114161511286268.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria to lift emergency law"
                     }
                 ]
@@ -771,6 +865,7 @@
                 "refs": [
                     {
                         "href": "http://www.dp-news.com/en/detail.aspx?articleid=81032", 
+                        "source": "DayPress", 
                         "text": "President al-Assad address the New Government"
                     }
                 ]
@@ -780,6 +875,7 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/201141817736498882.html", 
+                        "source": "Al Jazeera", 
                         "text": "Gunfire in locked-down Syrian city"
                     }
                 ]
@@ -789,10 +885,12 @@
                 "refs": [
                     {
                         "href": "http://english.aljazeera.net/news/middleeast/2011/04/2011419135036463804.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria 'lifts emergency law' amid protests"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13130401", 
+                        "source": "BBC News", 
                         "text": "Syria protests: Homs city sit-in 'dispersed by gunfire'"
                     }
                 ]
@@ -802,6 +900,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2011/04/21/us-syria-idUSTRE72N2MC20110421", 
+                        "source": null, 
                         "text": "Syria's Assad ends state of emergency"
                     }
                 ]
@@ -811,6 +910,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2011/04/21/us-syria-idUSTRE72N2MC20110421", 
+                        "source": null, 
                         "text": "Syria's Assad ends state of emergency"
                     }
                 ]
@@ -820,6 +920,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-13130401", 
+                        "source": "BBC News", 
                         "text": "Syria protests: Homs city sit-in 'dispersed by gunfire'"
                     }
                 ]
@@ -829,10 +930,12 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2011/04/21/us-syria-idUSTRE72N2MC20110421", 
+                        "source": null, 
                         "text": "Syria's Assad ends state of emergency"
                     }, 
                     {
                         "href": "http://sana.sy/eng/21/2011/04/22/342711.htm", 
+                        "source": null, 
                         "text": "Decrees on Ending State of Emergency, Abolishing SSSC, Regulating Right to Peaceful Demonstration"
                     }
                 ]
@@ -842,6 +945,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2011/04/21/us-syria-idUSTRE72N2MC20110421", 
+                        "source": null, 
                         "text": "Syria's Assad ends state of emergency"
                     }
                 ]
@@ -851,6 +955,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2011/04/26/world/middleeast/26syria.html", 
+                        "source": "The New York Times", 
                         "text": "Syria Escalates Crackdown as Tanks Go to Restive City"
                     }
                 ]

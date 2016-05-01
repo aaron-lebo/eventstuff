@@ -6,6 +6,7 @@
                 "refs": [
                     {
                         "href": "http://www.ktvq.com/news/syrian-opposition-group-more-than-5-800-died-in-2011/", 
+                        "source": "KTVQ", 
                         "text": "Syrian opposition group: More than 5,800 died in 2011"
                     }
                 ]
@@ -15,6 +16,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/01/us-syria-idUSTRE7BO0B620120101", 
+                        "source": null, 
                         "text": "Eight killed in Syria as Arab body urges monitors out"
                     }
                 ]
@@ -24,6 +26,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/commentisfree/2012/jan/01/nick-cohen-intervene-in-syria", 
+                        "source": "The Guardian", 
                         "text": "The west has a duty to intervene in Syria"
                     }
                 ]
@@ -33,6 +36,7 @@
                 "refs": [
                     {
                         "href": "http://www.usatoday.com/news/world/story/2012-01-01/arab-monitors-syria/52318456/1", 
+                        "source": "USA Today", 
                         "text": "Arab body calls for pullout of monitors in Syria"
                     }
                 ]
@@ -42,6 +46,7 @@
                 "refs": [
                     {
                         "href": "http://www.usatoday.com/news/world/story/2012-01-01/switzerland-syria-assad/52315578/1", 
+                        "source": "USA Today", 
                         "text": "Cousin of Syria's Assad denied visa to Switzerland"
                     }
                 ]
@@ -51,6 +56,7 @@
                 "refs": [
                     {
                         "href": "http://www.presstv.ir/detail/218712.html", 
+                        "source": "PressTV", 
                         "text": "Poll: Most Syrians supportive of Assad"
                     }
                 ]
@@ -64,6 +70,7 @@
                 "refs": [
                     {
                         "href": "http://latimesblogs.latimes.com/world_now/2012/01/syria-arab-league-assessment.html", 
+                        "source": "The Los Angeles Times", 
                         "text": "Syria has withdrawn tanks from cities, Arab League says"
                     }
                 ]
@@ -73,6 +80,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/israel-jan-2-2012-1525", 
+                        "source": "Al Jazeera", 
                         "text": "Mon, 2 Jan 2012, 12:25 GMT+3 \u2013 Israel"
                     }
                 ]
@@ -82,6 +90,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-jan-2-2012-1217", 
+                        "source": "Al Jazeera", 
                         "text": "Mon, 2 Jan 2012, 09:17 GMT+3 \u2013 Syria"
                     }
                 ]
@@ -91,6 +100,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/02/us-syria-idUSTRE7BO0B620120102", 
+                        "source": null, 
                         "text": "Rebels capture Syrian troops in north: opposition"
                     }
                 ]
@@ -100,6 +110,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/02/us-syria-idUSTRE7BO0B620120102", 
+                        "source": null, 
                         "text": "Rebels capture Syrian troops in north: opposition"
                     }
                 ]
@@ -113,6 +124,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120104022655/http://www.seattlepi.com/news/article/Sarkozy-accuses-Syrian-regime-of-massacres-2437935.php", 
+                        "source": "Seattle Post-Intelligencer", 
                         "text": "Sarkozy accuses Syrian regime of 'massacres'"
                     }
                 ]
@@ -126,6 +138,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120103110058/http://www.sana.sy/eng/337/2012/01/03/391861.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Law-Enforcement Officer Martyred, Explosive Devices Dismantled, Health Center Burglarized"
                     }
                 ]
@@ -135,6 +148,7 @@
                 "refs": [
                     {
                         "href": "http://www.voanews.com/english/news/Arab-League-to-Hold-Review-Session-on-Syria-Observers-Work-136592578.html", 
+                        "source": "Voice of America", 
                         "text": "Arab League to Hold Review Session on Syria Observers' Work"
                     }
                 ]
@@ -144,6 +158,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/05/us-syria-rebels-idUSTRE80320B20120105", 
+                        "source": null, 
                         "text": "Analysis: Doubts over Syria rebel army after escalation threat"
                     }
                 ]
@@ -153,6 +168,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120104022655/http://www.seattlepi.com/news/article/Sarkozy-accuses-Syrian-regime-of-massacres-2437935.php", 
+                        "source": "Seattle Post-Intelligencer", 
                         "text": "Sarkozy accuses Syrian regime of 'massacres'"
                     }
                 ]
@@ -162,6 +178,7 @@
                 "refs": [
                     {
                         "href": "http://www.voanews.com/english/news/Arab-League-to-Hold-Review-Session-on-Syria-Observers-Work-136592578.html", 
+                        "source": "Voice of America", 
                         "text": "Arab League to Hold Review Session on Syria Observers' Work"
                     }
                 ]
@@ -175,6 +192,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/jan/05/syria-army-defectors-meet-arab-league-live-updates", 
+                        "source": "The Guardian", 
                         "text": "Syria: army defectors meet Arab League observers"
                     }
                 ]
@@ -184,6 +202,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=348939", 
+                        "source": "NOW Lebanon", 
                         "text": "High-ranking Syrian official announces defection"
                     }
                 ]
@@ -217,6 +236,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/20121514550985525.html", 
+                        "source": "Al Jazeera", 
                         "text": "Senior Syrian official defects over crackdown"
                     }
                 ]
@@ -226,6 +246,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.com/liveblog/syria-jan-4-2012-1344", 
+                        "source": "Al Jazeera", 
                         "text": "Wed, 4 Jan 2012, 10:44 GMT+3 \u2013 Syria"
                     }
                 ]
@@ -235,6 +256,7 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2012/Jan-05/158918-syrian-opposition-launches-official-website.ashx#axzz1icIDsbtG", 
+                        "source": "The Lebanon Daily Star", 
                         "text": "Syrian opposition launches official website"
                     }
                 ]
@@ -244,6 +266,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120123084333/http://www.sana.sy/eng/337/2012/01/04/391948.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Terrorist Attack against Gas-pipeline Causing Loss of 4-megawatt per hour of Electricity"
                     }
                 ]
@@ -257,6 +280,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/05/us-syria-idUSTRE8041A820120105", 
+                        "source": null, 
                         "text": "Arab monitors to stay in Syria despite \"mistakes"
                     }
                 ]
@@ -266,6 +290,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8995755/Syria-Arab-League-must-press-for-UN-enforced-no-fly-zone-main-opposition-leader-says.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syria: Arab League must press for UN-enforced no-fly zone, main opposition leader says"
                     }
                 ]
@@ -275,6 +300,7 @@
                 "refs": [
                     {
                         "href": "http://www.panarmenian.net/eng/news/87934/", 
+                        "source": "PanArmenian", 
                         "text": "Iranian MP: Turkey needs to modify stance on Syria"
                     }
                 ]
@@ -284,6 +310,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/05/us-syria-idUSTRE8041A820120105", 
+                        "source": null, 
                         "text": "Arab monitors to stay in Syria despite \"mistakes"
                     }
                 ]
@@ -293,6 +320,7 @@
                 "refs": [
                     {
                         "href": "http://www.mideastyouth.com/2012/01/08/one-kurdish-boy-dead-mass-arrests-and-more-massive-protests-in-syria/", 
+                        "source": "Mideast Youth", 
                         "text": "One Kurdish boy dead, mass arrests, and more massive protests in Syria"
                     }
                 ]
@@ -302,6 +330,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202175733/http://sana.sy/eng/337/2012/01/05/392297.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Four Martyrs Killed by Terrorists in Homs, Two Others in Hama, One in Jableh"
                     }
                 ]
@@ -315,6 +344,7 @@
                 "refs": [
                     {
                         "href": "http://www.foxnews.com/world/2012/01/06/syria-explosion-targets-police-bus-in-damascus/", 
+                        "source": "Fox News", 
                         "text": "Syria: Explosion Targets Police Bus in Damascus"
                     }
                 ]
@@ -324,6 +354,7 @@
                 "refs": [
                     {
                         "href": "http://www.theaustralian.com.au/news/world/at-least-25-die-in-damascus-blast/story-e6frg6so-1226238609755", 
+                        "source": "The Australian", 
                         "text": "At least 25 die in Damascus blast"
                     }
                 ]
@@ -333,6 +364,7 @@
                 "refs": [
                     {
                         "href": "http://www.sana.sy/eng/21/2012/01/06/392709.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "National Leadership of al-Baath Party: Timing of Terrorist Act Reflects Criminal Mentality"
                     }
                 ]
@@ -342,6 +374,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/20121610858777140.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Dozens dead' in Damascus bombing"
                     }
                 ]
@@ -351,6 +384,7 @@
                 "refs": [
                     {
                         "href": "http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2213043&Language=en", 
+                        "source": "Kuwait News Agency", 
                         "text": "Blast rips through oil pipeline between Hama, Idlib"
                     }
                 ]
@@ -360,6 +394,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/06/186648.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab monitors escape attack by Syrian forces in Damascus suburb"
                     }
                 ]
@@ -369,6 +404,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/01/06/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "After Damascus attack, Syria vows to strike with 'iron fist'"
                     }
                 ]
@@ -378,6 +414,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/06/186757.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian opposition figure says Assad\u2019s regime plotting a massive blast in Aleppo"
                     }
                 ]
@@ -387,6 +424,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/06/us-syria-protest-attack-idUSTRE80516K20120106", 
+                        "source": null, 
                         "text": "Syria forces fire at protesters in capital: witness"
                     }
                 ]
@@ -396,14 +434,17 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/01/06/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "After Damascus attack, Syria vows to strike with 'iron fist'"
                     }, 
                     {
                         "href": "http://www.csmonitor.com/World/Backchannels/2012/0106/In-Syria-peaceful-protests-but-also-signs-of-growing-violence-videos", 
+                        "source": "The Christian Science Monitor", 
                         "text": "In Syria, peaceful protests \u2013 but also signs of growing violence"
                     }, 
                     {
                         "href": "http://blogs.aljazeera.com/liveblog/syria-jan-6-2012-1320", 
+                        "source": "Al Jazeera", 
                         "text": "Fri, 6 Jan 2012, 10:20 GMT+3 \u2013 Syria"
                     }
                 ]
@@ -413,6 +454,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/01/06/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "After Damascus attack, Syria vows to strike with 'iron fist'"
                     }
                 ]
@@ -422,6 +464,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202160612/http://sana.sy/eng/337/2012/01/06/392508.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Two Martyred, Six Others Injured in Terrorist Attack on Police Station in Daraa Countryside"
                     }
                 ]
@@ -431,6 +474,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8997209/Damascus-bomb-kills-25-as-regime-suffers-high-level-defection.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Damascus bomb kills 25 as regime sufferings high level defection"
                     }
                 ]
@@ -444,6 +488,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/20121772734954345.html", 
+                        "source": "Al Jazeera", 
                         "text": "Scores more soldiers defect from Syrian army"
                     }
                 ]
@@ -453,6 +498,7 @@
                 "refs": [
                     {
                         "href": "http://www.independent.ie/world-news/video-supporters-of-syrian-regime-gather-to-pray-for-soldiers-killed-in-bombing-2982666.html", 
+                        "source": "Irish Independent", 
                         "text": "Video: Supporters of Syrian regime gather to pray for soldiers killed in bombing"
                     }
                 ]
@@ -462,6 +508,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-jan-7-2012-2113", 
+                        "source": "Al Jazeera", 
                         "text": "Syria Live Blog Sat, 7 Jan 2012, 18:13"
                     }
                 ]
@@ -475,6 +522,7 @@
                 "refs": [
                     {
                         "href": "http://timesofindia.indiatimes.com/world/middle-east/Clashes-kill-11-Syrian-soldiers/articleshow/11414683.cms", 
+                        "source": "Times of India", 
                         "text": "Clashes kill 11 Syrian soldiers"
                     }
                 ]
@@ -488,6 +536,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202170350/http://sana.sy/eng/337/2012/01/09/392985.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Chief Warrant Officer Martyred after Being Kidnapped by Armed Terrorist Group in Harasta"
                     }
                 ]
@@ -497,6 +546,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202170350/http://sana.sy/eng/337/2012/01/09/392985.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Chief Warrant Officer Martyred after Being Kidnapped by Armed Terrorist Group in Harasta"
                     }
                 ]
@@ -506,6 +556,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/201217235048263324.html", 
+                        "source": "Al Jazeera", 
                         "text": "Arab League debates future of Syria mission"
                     }
                 ]
@@ -515,6 +566,7 @@
                 "refs": [
                     {
                         "href": "http://en.ria.ru/russia/20120108/170671887.html", 
+                        "source": "RIA Novosti", 
                         "text": "Arab League urges end to Syria violence"
                     }
                 ]
@@ -528,6 +580,7 @@
                 "refs": [
                     {
                         "href": "http://www.voanews.com/english/news/21-Dead-in-New-Syria-Violence-Activists-Say-136883788.html", 
+                        "source": "Voice of America", 
                         "text": "21 Dead in New Syria Violence, Activists Say"
                     }
                 ]
@@ -541,6 +594,7 @@
                 "refs": [
                     {
                         "href": "http://www.monstersandcritics.com/news/middleeast/news/article_1684855.php/Al-Assad-claims-popular-support-as-31-killed-in-Syria", 
+                        "source": "Monsters and Critics", 
                         "text": "Al-Assad claims popular support as 31 killed in Syria"
                     }
                 ]
@@ -550,6 +604,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202173741/http://sana.sy/eng/337/2012/01/11/393440.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "An Officer, 2 Military Members Martyred in Damascus Countryside, Citizen Martyred in Hama"
                     }
                 ]
@@ -559,14 +614,17 @@
                 "refs": [
                     {
                         "href": "http://www.euronews.net/2012/01/10/assad-blames-outside-forces-for-syrian-unrest/", 
+                        "source": "EuroNews", 
                         "text": "Assad blames \u2018outside forces\u2019 for Syrian unrest"
                     }, 
                     {
                         "href": "http://www.usatoday.com/news/world/story/2012-01-10/Syria-Syria-Assad/52476634/1", 
+                        "source": "USA Today", 
                         "text": "Most Popular E-mail Newsletter"
                     }, 
                     {
                         "href": "http://www.rte.ie/news/2012/0110/syria.html", 
+                        "source": "RT\u00c9 News", 
                         "text": "Syria promises referendum on constitution"
                     }
                 ]
@@ -584,6 +642,7 @@
                 "refs": [
                     {
                         "href": "http://www.washingtonpost.com/world/syria-opposition-government-trade-blame-for-attack-that-kills-french-journalist/2012/01/11/gIQAnBPhrP_story.html", 
+                        "source": "The Washington Post", 
                         "text": "Syria opposition, government trade blame for attack that kills French journalist"
                     }
                 ]
@@ -593,10 +652,12 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/jan/11/syria-400-dead-during-arab-league-mission-live-updates", 
+                        "source": "The Guardian", 
                         "text": "Syria: Arab League mission in crisis"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/11/187760.html", 
+                        "source": "Al Arabiya", 
                         "text": "French journalist killed, other reporters wounded in Homs blast"
                     }
                 ]
@@ -606,6 +667,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120124021759/http://sana.sy/eng/337/2012/01/12/393565.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Four Army Members Martyred, Eight Injured in a Bomb Detonated by Terrorists in Ya'four Area"
                     }
                 ]
@@ -619,6 +681,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/jan/11/syria-400-dead-during-arab-league-mission-live-updates", 
+                        "source": "The Guardian", 
                         "text": "Syria: Arab League mission in crisis"
                     }
                 ]
@@ -628,6 +691,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-jan-12-2012-1603", 
+                        "source": "Al Jazeera", 
                         "text": "Al Jazeera Live Blog"
                     }
                 ]
@@ -637,6 +701,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/201211163519970727.html", 
+                        "source": "Al Jazeera", 
                         "text": "Former observer says Syria mission 'a farce'"
                     }
                 ]
@@ -646,6 +711,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/10/us-syria-israel-idUSTRE8090UZ20120110", 
+                        "source": null, 
                         "text": "Israel says to take in Syria refugees if Assad falls"
                     }
                 ]
@@ -655,6 +721,7 @@
                 "refs": [
                     {
                         "href": "http://www.khaleejtimes.com/DisplayArticle11.asp?xfile=data/middleeast/2012/January/middleeast_January299.xml&section=middleeast", 
+                        "source": "Khaleej Times", 
                         "text": "Assad takes defiant message to Damascus street"
                     }
                 ]
@@ -664,6 +731,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=351227", 
+                        "source": "NOW Lebanon", 
                         "text": "Syrian archbishop says give Assad a chance"
                     }
                 ]
@@ -677,6 +745,7 @@
                 "refs": [
                     {
                         "href": "http://www.agi.it/english-version/world/elenco-notizie/201201121859-cro-ren1081-bloodletting_in_syria_continues_as_18_more_die", 
+                        "source": null, 
                         "text": "Bloodletting in Syria continues as 18 more die"
                     }
                 ]
@@ -686,6 +755,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120202075636/http://www.sana.sy/eng/337/2012/01/13/393912.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Child, 8 Law-enforcement Members Martyred in Armed Attacks"
                     }
                 ]
@@ -695,6 +765,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20130615030218/http://subyraman.com/who-is-sheikh-abdul-jalil-al-saeed/", 
+                        "source": "Tabeer", 
                         "text": "Who is Sheikh Abdul Jalil al-Saeed?"
                     }
                 ]
@@ -708,14 +779,17 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16557204", 
+                        "source": "BBC News", 
                         "text": "Syria tanks and troops 'enter protest town, Zabadani'"
                     }, 
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9014064/Syria-heading-for-civil-war-Arab-League-claims.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syria heading for civil war, Arab League claims"
                     }, 
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/2012113112929524562.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syrians rally in support of army defectors"
                     }
                 ]
@@ -725,6 +799,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120128202713/http://sana.sy/eng/337/2012/01/14/393989.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "3 Military Members Martyred in Damascus Countryside, 3 Law Enforcement Members Martyred in Homs"
                     }
                 ]
@@ -734,6 +809,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120128202713/http://sana.sy/eng/337/2012/01/14/393989.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "3 Military Members Martyred in Damascus Countryside, 3 Law Enforcement Members Martyred in Homs"
                     }
                 ]
@@ -747,6 +823,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/MiddleEast/Article.aspx?id=253586", 
+                        "source": "Jerusalem Post", 
                         "text": "Five dead in Syria, Qatar suggests sending troops"
                     }
                 ]
@@ -756,6 +833,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120126094551/http://sana.sy/eng/337/2012/01/14/394166.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Train Loaded with Fuel Derailed by Armed Groups, Terrorists Sabotage Electricity Pylons, Authorities Dismantle Explosives"
                     }
                 ]
@@ -765,6 +843,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16561493", 
+                        "source": "BBC", 
                         "text": "Syria crisis: Qatar calls for Arabs to send in troops"
                     }
                 ]
@@ -774,6 +853,7 @@
                 "refs": [
                     {
                         "href": "http://www.sacbee.com/2012/01/14/4187209/opposition-syrian-brigadier-general.html", 
+                        "source": "Sacramento Bee", 
                         "text": "Opposition: Syrian brigadier general defects"
                     }
                 ]
@@ -787,6 +867,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/26657-16-civilians-dead-in-syria-as-bus-attack-kills-at-least-6", 
+                        "source": "Naharnet", 
                         "text": "27 Civilians Dead in Syria as Bus Attack Kills At Least 6"
                     }
                 ]
@@ -796,6 +877,7 @@
                 "refs": [
                     {
                         "href": "http://sana.sy/eng/337/2012/01/15/394333.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "6 Workers Martyred, 16 Injured by Explosive Device in Idleb"
                     }
                 ]
@@ -805,6 +887,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/26657-16-civilians-dead-in-syria-as-bus-attack-kills-at-least-6", 
+                        "source": "Naharnet", 
                         "text": "27 Civilians Dead in Syria as Bus Attack Kills At Least 6"
                     }
                 ]
@@ -814,6 +897,7 @@
                 "refs": [
                     {
                         "href": "http://sana.sy/eng/337/2012/01/15/394333.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "6 Workers Martyred, 16 Injured by Explosive Device in Idleb"
                     }
                 ]
@@ -823,6 +907,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9018589/Syria-suffers-series-of-embarrassing-defections.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syria suffers series of embarrassing defections"
                     }
                 ]
@@ -836,6 +921,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/16/us-syria-idUSTRE8041A820120116", 
+                        "source": "Reuters", 
                         "text": "Twelve more killed in Syria despite Arab monitors"
                     }
                 ]
@@ -845,6 +931,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120120151207/http://www.sana.sy:80/eng/337/2012/01/16/394558.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Officer, Five Army members martyred by Rocket missiles in Sahnaya, Damascus Countryside"
                     }
                 ]
@@ -854,6 +941,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9018589/Syria-suffers-series-of-embarrassing-defections.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syria suffers series of embarrassing defections"
                     }
                 ]
@@ -867,10 +955,12 @@
                 "refs": [
                     {
                         "href": "http://www.ansamed.info/ansamed/en/news/nations/syria/2012/01/17/visualizza_new.html_46019705.html", 
+                        "source": "Ansamed", 
                         "text": "Syria: 30 activists killed today"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/5339", 
+                        "source": null, 
                         "text": "More Martyrs 17-1-2012"
                     }
                 ]
@@ -880,10 +970,12 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5339", 
+                        "source": null, 
                         "text": "More Martyrs 17-1-2012"
                     }, 
                     {
                         "href": "https://web.archive.org/20120121043934/http://www.sana.sy:80/eng/337/2012/01/17/394878.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Two Law-Enforcement Members, Four Citizens Martyred in Idleb, Others Injured"
                     }
                 ]
@@ -893,6 +985,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120121043934/http://www.sana.sy:80/eng/337/2012/01/17/394878.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Two Law-Enforcement Members, Four Citizens Martyred in Idleb, Others Injured"
                     }
                 ]
@@ -902,6 +995,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/17/us-syria-zabadani-ceasefire-idUSTRE80G25T20120117", 
+                        "source": null, 
                         "text": "Army, rebels agree ceasefire in Syrian town: opposition"
                     }
                 ]
@@ -915,6 +1009,7 @@
                 "refs": [
                     {
                         "href": "http://www.usatoday.com/news/world/story/2012-01-18/syrian-observer-violence-protests/52652894/1", 
+                        "source": "USA Today", 
                         "text": "Arab League observer says violence prevails in Syria mission"
                     }
                 ]
@@ -924,6 +1019,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2012/01/18/world/meast/syria-eu-sanctions/", 
+                        "source": "CNN", 
                         "text": "Europe planning new Syria sanctions"
                     }
                 ]
@@ -933,6 +1029,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/18/us-syria-jumblatt-idUSTRE80H0N220120118", 
+                        "source": null, 
                         "text": "Lebanese Druze leader fears civil war in Syria"
                     }
                 ]
@@ -942,6 +1039,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2012/01/18/world/meast/syria-eu-sanctions/", 
+                        "source": "CNN", 
                         "text": "Europe planning new Syria sanctions"
                     }
                 ]
@@ -955,6 +1053,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/201211916739170780.html", 
+                        "source": "Al Jazeera", 
                         "text": "Arab League mulls extension of Syria mission"
                     }
                 ]
@@ -964,6 +1063,7 @@
                 "refs": [
                     {
                         "href": "http://www.foxnews.com/world/2012/01/19/us-uncovers-iranian-effort-to-help-syria-evade-oil-embargo/", 
+                        "source": "Fox News", 
                         "text": "US uncovers Iranian effort to help Syria evade oil embargo"
                     }
                 ]
@@ -973,6 +1073,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/19/189316.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab observers to report back on Syria mission; Kurd groups to unite against Assad"
                     }
                 ]
@@ -986,14 +1087,17 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/2012120142243339195.html", 
+                        "source": "Al Jazeera", 
                         "text": "Huge rallies staged across many Syrian cities"
                     }, 
                     {
                         "href": "http://internationaldesk.blogs.cnn.com/2012/01/20/syria-seethes-as-protests-persist/", 
+                        "source": "CNN", 
                         "text": "Syria Seethes As Protests Persist"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16646806", 
+                        "source": "BBC News", 
                         "text": "Syrian activists call for release of detainees"
                     }
                 ]
@@ -1003,10 +1107,12 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2012/Jan-20/160582-syrian-opposition-forces-killed-french-journalist-report.ashx#axzz1k26tvQ74", 
+                        "source": "The Lebanon Daily Star", 
                         "text": "Syrian opposition forces killed French journalist: report"
                     }, 
                     {
                         "href": "http://www.bloomberg.com/news/2012-01-21/french-journalist-was-killed-by-syrian-rebels-le-figaro-says.html", 
+                        "source": "Bloomberg", 
                         "text": "French Journalist Was Killed by Syrian Rebels, Le Figaro Says"
                     }
                 ]
@@ -1016,10 +1122,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/2012120142243339195.html", 
+                        "source": "Al Jazeera", 
                         "text": "Huge rallies staged across many Syrian cities"
                     }, 
                     {
                         "href": "http://www.reuters.com/article/2012/01/20/us-syria-idUSTRE8041A820120120", 
+                        "source": "Reuters", 
                         "text": "Violence keeps Syria on edge, Arab mission may extend"
                     }
                 ]
@@ -1029,6 +1137,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120123112527/http://www.sana.sy:80/eng/337/2012/01/20/395536.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Chief Warrant Officer Martyred in Daraa"
                     }
                 ]
@@ -1038,6 +1147,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/20/189470.html", 
+                        "source": "Al Arabiya", 
                         "text": "Pressure mounts for U.N. to intervene in Syria as Arab League mission is in doubt"
                     }
                 ]
@@ -1051,6 +1161,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/21/189650.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian deserters seize town of Douma northeast of Damascus, scores killed"
                     }
                 ]
@@ -1060,6 +1171,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/21/us-syria-idUSTRE8041A820120121", 
+                        "source": null, 
                         "text": "Syrian blasts kill 14, Arab monitors may stay"
                     }
                 ]
@@ -1069,6 +1181,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/21/189650.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian deserters seize town of Douma northeast of Damascus, scores killed"
                     }
                 ]
@@ -1078,6 +1191,7 @@
                 "refs": [
                     {
                         "href": "http://sana.sy/eng/337/2012/01/21/395611.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "14 Killed, 26 Injured by Attacks of Armed Terrorist Group in Idleb..2 Law-Enforcement Members Martyred, 6 Injured"
                     }
                 ]
@@ -1087,6 +1201,7 @@
                 "refs": [
                     {
                         "href": "http://sana.sy/eng/337/2012/01/21/395710.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Competent Authorities Clash with Terrorists on Syrian-Lebanese Borders, Kill Three"
                     }
                 ]
@@ -1096,6 +1211,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/21/us-syria-rebels-idUSTRE80K0TG20120121", 
+                        "source": null, 
                         "text": "Syria rebels retreat after seizing area near capital"
                     }
                 ]
@@ -1105,6 +1221,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.com/liveblog/syria-jan-22-2012-0108", 
+                        "source": "Al Jazeera", 
                         "text": "Syria \u2013 Jan 22, 2012 \u2013 01:08"
                     }
                 ]
@@ -1114,6 +1231,7 @@
                 "refs": [
                     {
                         "href": "http://www.foxnews.com/politics/2012/01/20/state-department-preparing-to-close-us-embassy-in-syria-officials-say/", 
+                        "source": "Fox News", 
                         "text": "State Department preparing to close embassy in Syria, no final decision made"
                     }
                 ]
@@ -1127,6 +1245,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/MiddleEast/Article.aspx?id=254705", 
+                        "source": "The Jerusalem Post", 
                         "text": "Arab League mulls unity gov't plan for Syria"
                     }
                 ]
@@ -1136,6 +1255,7 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2012/Jan-23/160759-league-urges-yemen-scenario-in-syria.ashx#axzz1kEdLZzjM", 
+                        "source": "The Daily Star", 
                         "text": "League urges Yemen scenario in Syria"
                     }
                 ]
@@ -1145,6 +1265,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120124143739/http://www.yalibnan.com:80/2012/01/22/syria-returns-lebanon-fishermen-and-body-of-14-years-old/", 
+                        "source": "Ya Libnan", 
                         "text": "Syria returns Lebanon fishermen and body of 14 years old"
                     }
                 ]
@@ -1154,6 +1275,7 @@
                 "refs": [
                     {
                         "href": "http://abcnews.go.com/International/wireStory/colleagues-blame-syria-french-reporters-death-15415125#.Txx_XmNSTS0", 
+                        "source": "ABC News", 
                         "text": "Colleagues Blame Syria for French Reporter's Death"
                     }
                 ]
@@ -1163,6 +1285,7 @@
                 "refs": [
                     {
                         "href": "http://www.dailystar.com.lb/News/Middle-East/2012/Jan-23/160759-league-urges-yemen-scenario-in-syria.ashx#axzz1kEdLZzjM", 
+                        "source": "The Daily Star", 
                         "text": "League urges Yemen scenario in Syria"
                     }
                 ]
@@ -1176,6 +1299,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/27567-syria-rebels-kill-five-soldiers-in-homs", 
+                        "source": "Naharnet", 
                         "text": "22 Civilians, 5 Troops Dead in Syria as 150,000 Mass for Funerals in Douma"
                     }
                 ]
@@ -1185,6 +1309,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120126044608/http://sana.sy:80/eng/337/2012/01/23/395797.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "7 Martyred by Terrorists Gunfire in Damascus Countryside, Daraa, Homs and Hama, 2 Trucks Loaded with Weapons and Ammunition Seized in Raqqa"
                     }
                 ]
@@ -1194,6 +1319,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/jan/23/syria-rejects-arab-league-demands", 
+                        "source": "The Guardian", 
                         "text": "Syria rejects Arab League demands"
                     }
                 ]
@@ -1203,6 +1329,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/201212305618873831.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria rejects Arab League transition plan"
                     }
                 ]
@@ -1216,6 +1343,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5575", 
+                        "source": null, 
                         "text": "52 Martyrs till Now 24-1-2012"
                     }
                 ]
@@ -1229,6 +1357,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5644", 
+                        "source": null, 
                         "text": "Syria This Evening 25-1-2012"
                     }
                 ]
@@ -1238,6 +1367,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/2012125104441775248.html", 
+                        "source": "Al Jazeera", 
                         "text": "Senior Red Crescent official killed in Syria"
                     }
                 ]
@@ -1251,10 +1381,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/201212614209112524.html", 
+                        "source": "Al Jazeera", 
                         "text": "Arab League to take Syria peace plan to UN"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/26/190704.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab observers resume work for the first time in a week amid Syria violence"
                     }
                 ]
@@ -1264,10 +1396,12 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120129004640/http://www.sana.sy:80/eng/21/2012/01/26/396683.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "Support Rallies to Comprehensive Reforms Led and Masterminded by President Bashar al-Assad"
                     }, 
                     {
                         "href": "http://en.ria.ru/world/20120126/170965525.html", 
+                        "source": "RIA Novosti", 
                         "text": "Syrians Rally in Support for al-Assad"
                     }
                 ]
@@ -1277,6 +1411,7 @@
                 "refs": [
                     {
                         "href": "http://www.albawaba.com/news/syria-over-30-dead-regimes-slams-arab-regimes-410491", 
+                        "source": "Al Bawaba", 
                         "text": "Syria: Over 30 dead as regimes slams Arab regimes"
                     }
                 ]
@@ -1286,6 +1421,7 @@
                 "refs": [
                     {
                         "href": "http://www.albawaba.com/news/syria-over-30-dead-regimes-slams-arab-regimes-410491", 
+                        "source": "Al Bawaba", 
                         "text": "Syria: Over 30 dead as regimes slams Arab regimes"
                     }
                 ]
@@ -1295,6 +1431,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5665", 
+                        "source": null, 
                         "text": "42 Martyrs till Now 26-1-2012"
                     }
                 ]
@@ -1304,6 +1441,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5681", 
+                        "source": null, 
                         "text": "Hama\u2019s Massacre 26-1-2012"
                     }
                 ]
@@ -1313,6 +1451,7 @@
                 "refs": [
                     {
                         "href": "http://news.bbc.co.uk/today/hi/today/newsid_9687000/9687063.stm", 
+                        "source": "BBC", 
                         "text": "Free Syrian Army: We're going to win this war"
                     }
                 ]
@@ -1326,6 +1465,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/27/190862.html", 
+                        "source": "Al Arabiya", 
                         "text": "102 killed across Syria as bloody crackdown on opposition continues"
                     }
                 ]
@@ -1335,14 +1475,17 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/27/190862.html", 
+                        "source": "Al Arabiya", 
                         "text": "102 killed across Syria as bloody crackdown on opposition continues"
                     }, 
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/2012126224714267587.html", 
+                        "source": "Al Jazeera", 
                         "text": "UN Security Council to discuss Syria crisis"
                     }, 
                     {
                         "href": "http://www.reuters.com/article/2012/01/27/us-syria-idUSTRE8041A820120127", 
+                        "source": null, 
                         "text": "Syria violence kills 37, U.N. Security Council to meet"
                     }
                 ]
@@ -1356,6 +1499,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/27/us-syria-iran-hostages-idUSTRE80Q1EH20120127", 
+                        "source": null, 
                         "text": "Syrian rebels say they hold seven Iranians hostage"
                     }
                 ]
@@ -1365,10 +1509,12 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.com/liveblog/syria-jan-27-2012-1305", 
+                        "source": "Al Jazeera", 
                         "text": "Fri, 27 Jan 2012, 10:05 GMT+3 - Syria"
                     }, 
                     {
                         "href": "http://blogs.aljazeera.com/liveblog/syria-jan-27-2012-1740", 
+                        "source": "Al Jazeera", 
                         "text": "Fri, 27 Jan 2012, 14:40 GMT+3 - Syria"
                     }
                 ]
@@ -1378,6 +1524,7 @@
                 "refs": [
                     {
                         "href": "http://www.time.com/time/world/article/0,8599,2105510,00.html", 
+                        "source": "TIME", 
                         "text": "Syria: Are Captured Iranians Military Men or Engineers?"
                     }
                 ]
@@ -1387,6 +1534,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/27/us-syria-iran-hostages-idUSTRE80Q1EH20120127", 
+                        "source": null, 
                         "text": "Syrian rebels say they hold seven Iranians hostage"
                     }
                 ]
@@ -1396,6 +1544,7 @@
                 "refs": [
                     {
                         "href": "http://online.wsj.com/article/SB10001424052970204573704577186912878221938.html", 
+                        "source": "Wall Street Journal", 
                         "text": "Damascus Battles Risk Tipping Capital Into Chaos"
                     }
                 ]
@@ -1409,10 +1558,12 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5771", 
+                        "source": null, 
                         "text": "50 Martyrs 28-1-2012 | Local coordination committees of Syria"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/28/191067.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab League suspends observer mission as Syria vows to \u2018cleanse outlaws\u2019"
                     }
                 ]
@@ -1422,6 +1573,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2012/01/28/world/meast/syria-unrest/", 
+                        "source": "CNN", 
                         "text": "Amid violence, Arab League suspends observer mission in Syria"
                     }
                 ]
@@ -1431,6 +1583,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5786", 
+                        "source": null, 
                         "text": "98 Martyrs 28-1-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1444,6 +1597,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16779203", 
+                        "source": "BBC", 
                         "text": "Syria army moves to wrest Damascus suburbs from rebels"
                     }
                 ]
@@ -1453,6 +1607,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/29/us-syria-idUSTRE80S08620120129", 
+                        "source": null, 
                         "text": "Syria troops battle to retake Damascus suburbs"
                     }
                 ]
@@ -1462,10 +1617,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16779203", 
+                        "source": "BBC", 
                         "text": "Syria army moves to wrest Damascus suburbs from rebels"
                     }, 
                     {
                         "href": "http://www.cnn.com/2012/01/29/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Arab League suspends Syria mission amid violence"
                     }
                 ]
@@ -1475,6 +1632,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/01/29/191185.html", 
+                        "source": null, 
                         "text": "U.N. resolution on Syria to be redrafted as Ban Ki-moon calls for end to bloodshed"
                     }
                 ]
@@ -1484,14 +1642,17 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130", 
+                        "source": null, 
                         "text": "Assad troops fight back against Syria rebels"
                     }, 
                     {
                         "href": "https://web.archive.org/20120201045432/http://news.sky.com:80/home/world-news/article/16158820", 
+                        "source": "Sky News", 
                         "text": "Syria: Damascus Army Retakes Rebel Suburbs, Assad Forces Shelling Rebel Strongholds"
                     }, 
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16784711", 
+                        "source": "BBC News", 
                         "text": "Syrian army returns to Damascus suburbs"
                     }
                 ]
@@ -1501,6 +1662,7 @@
                 "refs": [
                     {
                         "href": "http://en.ria.ru/world/20120130/171026596.html", 
+                        "source": "RIA Novosti", 
                         "text": "Rebels Block Assad\u2019s Relatives Leaving Syria"
                     }
                 ]
@@ -1514,6 +1676,7 @@
                 "refs": [
                     {
                         "href": "http://www.emirates247.com/news/region/violence-kills-29-across-syria-on-monday-2012-01-30-1.440285", 
+                        "source": "Emirates 24/7", 
                         "text": "Violence kills 29 across Syria on Monday"
                     }
                 ]
@@ -1523,6 +1686,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130", 
+                        "source": null, 
                         "text": "Assad troops fight back against Syria rebels"
                     }
                 ]
@@ -1532,6 +1696,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/01/20121305451649635.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Street fighting rages' near Damascus"
                     }
                 ]
@@ -1541,6 +1706,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5885", 
+                        "source": null, 
                         "text": "100 Martyrs 30-1-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1550,6 +1716,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120209155405/http://www.google.com:80/hostednews/afp/article/ALeqM5gmDkKz90iUJhpbIyspp1A2yzmyZg?docId=CNG.3805822e112de64f854324c7c664eed4.671", 
+                        "source": "Google News", 
                         "text": "Regime executes Free Syrian Army colonel: NGO"
                     }
                 ]
@@ -1563,6 +1730,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120309171733/http://sana.sy:80/eng/337/2012/01/31/397544.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "Interior Ministry: Big Numbers of Terrorists Killed, Many Others Caught in Damascus Countryside"
                     }
                 ]
@@ -1572,6 +1740,7 @@
                 "refs": [
                     {
                         "href": "http://www.belfasttelegraph.co.uk/news/world-news/syrian-troops-push-towards-damascus-16111322.html", 
+                        "source": "Belfast Telegraph", 
                         "text": "UN urged to back Syria resolution"
                     }
                 ]
@@ -1581,6 +1750,7 @@
                 "refs": [
                     {
                         "href": "http://in.reuters.com/article/2012/01/31/syria-attack-idINDEE80U0GI20120131", 
+                        "source": "Reuters India", 
                         "text": "Syrian forces kill 10 in rebel town"
                     }
                 ]
@@ -1590,6 +1760,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5944", 
+                        "source": null, 
                         "text": "More News From Syria 31-1-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1603,6 +1774,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/01/us-syria-idUSTRE80S08620120201", 
+                        "source": null, 
                         "text": "Russia says will veto unacceptable Syria resolution"
                     }
                 ]
@@ -1612,6 +1784,7 @@
                 "refs": [
                     {
                         "href": "http://www.google.com/hostednews/afp/article/ALeqM5iIRYbLpZTC333MEYx2KICfKkc9oQ?docId=CNG.1140e56aa3552e814067991ab61a1045.61", 
+                        "source": "Google News", 
                         "text": "Iran says 11 more pilgrims kidnapped in Syria"
                     }
                 ]
@@ -1621,10 +1794,12 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/5967", 
+                        "source": null, 
                         "text": "68 Martyrs till Now 1-2-2012 | Local coordination committees of Syria"
                     }, 
                     {
                         "href": "http://www.cnn.com/2012/02/01/world/meast/syria-unrest/", 
+                        "source": "CNN", 
                         "text": "U.N. Security Council talks Syria peace as deaths mount"
                     }
                 ]
@@ -1638,6 +1813,7 @@
                 "refs": [
                     {
                         "href": "http://online.wsj.com/article/SB10001424052970204652904577196690460049790.html", 
+                        "source": "Wall street journal", 
                         "text": "Syria fight grows as UN negotiates with Russia"
                     }
                 ]
@@ -1647,6 +1823,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/2012221439757981.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria activists commemorate Hama atrocities"
                     }
                 ]
@@ -1656,6 +1833,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16865057", 
+                        "source": "BBC News", 
                         "text": "Russia threatens UN veto over Syria resolution"
                     }
                 ]
@@ -1669,6 +1847,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/03/192348.html", 
+                        "source": "Al Arabiya", 
                         "text": "More deaths reported in Syria as Russia says it cannot support amended draft"
                     }
                 ]
@@ -1678,10 +1857,12 @@
                 "refs": [
                     {
                         "href": "http://www.chicagotribune.com/news/sns-rt-us-syria-aleppotre812137-20120203,0,3209977.story", 
+                        "source": "Chicago Tribune", 
                         "text": "Uprising finally hits Syrias silk road city"
                     }, 
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201223145311955213.html", 
+                        "source": "Al Jazeera", 
                         "text": "Dozens killed as Syrians mark 1982 massacre"
                     }
                 ]
@@ -1699,10 +1880,12 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/03/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "U.N. Security Council to meet on Syria as deaths mount"
                     }, 
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201223231333768854.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Hundreds of casualties' in Syria's Homs"
                     }
                 ]
@@ -1712,6 +1895,7 @@
                 "refs": [
                     {
                         "href": "http://www.cbsnews.com/8301-202_162-57371564/syria-denies-massacre-of-200-in-homs/", 
+                        "source": "CBS News", 
                         "text": "Syria denies massacre of 200 in Homs"
                     }
                 ]
@@ -1721,14 +1905,17 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-4-2012-0135", 
+                        "source": "Al Jazeera", 
                         "text": "Live Blog"
                     }, 
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-4-2012-0328", 
+                        "source": "Al Jazeera", 
                         "text": "AJE live blog"
                     }, 
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-4-2012-0037", 
+                        "source": "Al Jazeera", 
                         "text": "Syria - Feb 4, 2012 - 00:37"
                     }
                 ]
@@ -1738,10 +1925,12 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/28907-lebanese-army-deploys-in-wadi-khaled-opposition-describes-measures-as-syrian-orders", 
+                        "source": "NaharNet", 
                         "text": "Lebanese Army Deploys in Wadi Khaled, Opposition Describes Measures as 'Syrian Orders'"
                     }, 
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=360743", 
+                        "source": "NOW Lebanon", 
                         "text": "Lebanese army deploys to Wadi Khaled, Akroum"
                     }
                 ]
@@ -1751,6 +1940,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120205051127/http://www.france24.com/en/20120204-syria-forces-kill-12-civilians-near-damascus", 
+                        "source": "France24", 
                         "text": "Syria forces 'kill 12 civilians' near Damascus"
                     }
                 ]
@@ -1760,6 +1950,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201224162422121856.html", 
+                        "source": "Al Jazeera", 
                         "text": "Veto on Syria sparks Arab and Western fury"
                     }
                 ]
@@ -1773,6 +1964,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6072", 
+                        "source": null, 
                         "text": "More Martyrs 5-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1786,6 +1978,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16902819", 
+                        "source": "BBC News", 
                         "text": "Syria crisis: Army steps up Homs shelling"
                     }
                 ]
@@ -1795,6 +1988,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=361565", 
+                        "source": "NOW Lebanon", 
                         "text": "Britain recalls ambassador to Syria"
                     }
                 ]
@@ -1804,6 +1998,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-6-2012-1152", 
+                        "source": "Al Jazeera", 
                         "text": "Syria - Feb 6, 2012 - 11:52"
                     }
                 ]
@@ -1813,6 +2008,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120127141316/http://travel.state.gov/travel/cis_pa_tw/tw/tw_5633.html", 
+                        "source": "the original", 
                         "text": "Syria"
                     }
                 ]
@@ -1822,6 +2018,7 @@
                 "refs": [
                     {
                         "href": "http://ukinsyria.fco.gov.uk/en/news/?view=News&id=726320582", 
+                        "source": null, 
                         "text": "Foreign Office summons Syrian Ambassador over Homs siege"
                     }
                 ]
@@ -1835,6 +2032,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=361658", 
+                        "source": "NOW Lebanon", 
                         "text": "US to send sanctions official to Moscow"
                     }
                 ]
@@ -1844,6 +2042,7 @@
                 "refs": [
                     {
                         "href": "http://www.trust.org/alertnet/news/syria-bombards-homs-west-scrambles-for-new-strategy/", 
+                        "source": "Trust", 
                         "text": "Syria bombards Homs; West scrambles for new strategy"
                     }
                 ]
@@ -1853,6 +2052,7 @@
                 "refs": [
                     {
                         "href": "http://www.vancouversun.com/news/Recall+ambassador+Syria+says/6108511/story.html", 
+                        "source": "Vancouver Sun", 
                         "text": "Canadian ambassador to remain in Syria"
                     }
                 ]
@@ -1862,6 +2062,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6129", 
+                        "source": null, 
                         "text": "Syria at Night 6-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1875,6 +2076,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16920922#TWEET73925", 
+                        "source": "BBC News", 
                         "text": "Syria crisis: Russia 'wants Arab League role'"
                     }
                 ]
@@ -1884,6 +2086,7 @@
                 "refs": [
                     {
                         "href": "http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-02-07-09-41-12", 
+                        "source": "Associated Press", 
                         "text": "News from The Associated Press"
                     }
                 ]
@@ -1893,6 +2096,7 @@
                 "refs": [
                     {
                         "href": "http://www.heraldsun.com.au/news/breaking-news/unicef-says-400-children-killed-in-syria/story-e6frf7jx-1226265174030", 
+                        "source": "Herald Sun", 
                         "text": "UNICEF says 400 children killed in Syria"
                     }
                 ]
@@ -1906,6 +2110,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6173", 
+                        "source": null, 
                         "text": "35 Martyrs 7-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1919,6 +2124,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/20122854220167748.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Besieged' Homs endures tank assault"
                     }
                 ]
@@ -1928,6 +2134,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/08/193298.html", 
+                        "source": "Al Arabiya", 
                         "text": "At least 117 killed in military attacks mostly across Syrian city of Homs"
                     }
                 ]
@@ -1937,10 +2144,12 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120604163507/http://sana.sy/eng/337/2012/02/08/399070.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "Thirty Army and Law-Enforcement Forces Martyrs Laid to Rest"
                     }, 
                     {
                         "href": "https://web.archive.org/20120211093750/http://www.sana.sy:80/eng/337/2012/02/08/399246.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "13 Army Martyrs Escorted to Final Resting Place"
                     }
                 ]
@@ -1954,10 +2163,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201229142032794961.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Scores killed' in shelling of Syria's Homs"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/6203", 
+                        "source": null, 
                         "text": "More Martyrs 9-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -1967,6 +2178,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/09/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "At least 137 reported killed as Syrian attacks escalate"
                     }
                 ]
@@ -1976,6 +2188,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120211041547/http://www.sana.sy:80/eng/337/2012/02/10/399441.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "Eight Army and Law-Enforcement Martyrs Laid to Rest"
                     }
                 ]
@@ -1989,6 +2202,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221084241265250.html", 
+                        "source": "Al Jazeera", 
                         "text": "Deadly blasts in Aleppo as tanks mass in Homs"
                     }
                 ]
@@ -1998,10 +2212,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221084241265250.html", 
+                        "source": "Al Jazeera", 
                         "text": "Deadly blasts in Aleppo as tanks mass in Homs"
                     }, 
                     {
                         "href": "http://www.reuters.com/article/2012/02/10/us-syria-idUSTRE80S08620120210", 
+                        "source": null, 
                         "text": "Bomb blasts bring death to Syria's Aleppo"
                     }
                 ]
@@ -2011,6 +2227,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/feb/10/syria-aleppo-bombs-homs-tanks-live", 
+                        "source": "Guardian", 
                         "text": "Syria: bombs hit Aleppo as tanks pound Homs"
                     }
                 ]
@@ -2020,6 +2237,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221084241265250.html", 
+                        "source": "Al Jazeera", 
                         "text": "Deadly blasts in Aleppo as tanks mass in Homs"
                     }
                 ]
@@ -2029,10 +2247,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221084241265250.html", 
+                        "source": "Al Jazeera", 
                         "text": "Deadly blasts in Aleppo as tanks mass in Homs"
                     }, 
                     {
                         "href": "http://www.naharnet.com/stories/en/29633-syrian-forces-deploy-to-stop-protests", 
+                        "source": "Naharnet", 
                         "text": "At Least 42 Dead as Syria Protesters Rally against Russia"
                     }
                 ]
@@ -2042,6 +2262,7 @@
                 "refs": [
                     {
                         "href": "http://rt.com/news/syria-iran-cooperation-protests-969/", 
+                        "source": "Russia Today", 
                         "text": "15,000 elite Iranian special-ops 'head' to Syria"
                     }
                 ]
@@ -2051,10 +2272,12 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-16989939", 
+                        "source": "BBC News", 
                         "text": "Armed Assad supporters and opponents clash in Lebanon"
                     }, 
                     {
                         "href": "http://in.reuters.com/article/2012/02/10/lebanon-tripoli-idINDEE8190GW20120210", 
+                        "source": "Reuters India", 
                         "text": "Heavy gunfire in Lebanon's Tripoli, one wounded"
                     }
                 ]
@@ -2064,6 +2287,7 @@
                 "refs": [
                     {
                         "href": "http://www.hindustantimes.com/world-news/RestOfAsia/3-dead-in-Sunni-Alawite-clashes-Lebanon-security/Article1-810030.aspx", 
+                        "source": "Hindustan Times", 
                         "text": "3 dead in Sunni-Alawite clashes: Lebanon security"
                     }
                 ]
@@ -2073,6 +2297,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6258", 
+                        "source": null, 
                         "text": "51 Martyrs 10-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2086,6 +2311,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/11/us-syria-idUSTRE81912V20120211", 
+                        "source": null, 
                         "text": "Syria forces shell Homs, Saudis push U.N. resolution"
                     }
                 ]
@@ -2095,6 +2321,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120506011312/http://www.google.com/hostednews/afp/article/ALeqM5ieZhI-Ef6qIsGk1Rc48np5UVKBLQ?docId=CNG.08fe9711909c30405b5cb685b6d1bb03.811", 
+                        "source": "Google News", 
                         "text": "AFP: Jihadists, weapons 'moving from Iraq to Syria'"
                     }
                 ]
@@ -2104,6 +2331,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120214101143/http://www.sana.sy:80/eng/337/2012/02/11/399781.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "Thirty-nine Martyrs from the Army and Law Enforcement Forces Laid to Rest"
                     }
                 ]
@@ -2113,6 +2341,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120214072234/http://www.sana.sy:80/eng/337/2012/02/11/399718.htm", 
+                        "source": "Syrian Arab news agency", 
                         "text": "A Terrorist Group Assassinates Brigadier General Dr. Issa al-Kholi in Damascus"
                     }
                 ]
@@ -2122,6 +2351,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6292", 
+                        "source": null, 
                         "text": "Syria Today 11-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2135,6 +2365,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2012/feb/12/alqaida-zawahiri-support-syrian-uprising", 
+                        "source": "The Guardian", 
                         "text": "Al-Qaida leader Zawahiri urges Muslim support for Syrian uprising"
                     }
                 ]
@@ -2144,6 +2375,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/2012/feb/12/alqaida-zawahiri-support-syrian-uprising", 
+                        "source": "The Guardian", 
                         "text": "Al-Qaida leader Zawahiri urges Muslim support for Syrian uprising"
                     }
                 ]
@@ -2153,6 +2385,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=363943", 
+                        "source": "NOW Lebanon", 
                         "text": "Jordanian Islamists urge \"jihad\" against Syrian regime"
                     }
                 ]
@@ -2162,6 +2395,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221285656460612.html", 
+                        "source": "Al Jazeera", 
                         "text": "Arab League meets in Cairo to discuss Syria"
                     }
                 ]
@@ -2171,6 +2405,7 @@
                 "refs": [
                     {
                         "href": "http://www.google.com/hostednews/afp/article/ALeqM5jfpMS-RgU6-LrVU58d9UiGwqeGpg?docId=CNG.33353d7779d4939ab080022ae269251e.4e1", 
+                        "source": "Google News", 
                         "text": "Arab League Syria mission chief 'resigns'"
                     }
                 ]
@@ -2180,6 +2415,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/2012212144046479368.html", 
+                        "source": "Al Jazeera", 
                         "text": "Arab bloc calls for Syria peacekeepers"
                     }
                 ]
@@ -2189,6 +2425,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/12/194067.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab League calls for international peacekeeping force in Syria"
                     }
                 ]
@@ -2198,6 +2435,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/12/194067.html", 
+                        "source": "Al Arabiya", 
                         "text": "Arab League calls for international peacekeeping force in Syria"
                     }
                 ]
@@ -2207,6 +2445,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/MiddleEast/Article.aspx?id=257527", 
+                        "source": "Jerusalem Post", 
                         "text": "Syria rejects Arab League anti-Assad resolution"
                     }
                 ]
@@ -2216,6 +2455,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/12/world/meast/syria-unrest", 
+                        "source": "CNN", 
                         "text": "Arab League proposes peacekeeping force, support for Syrian rebels"
                     }
                 ]
@@ -2229,6 +2469,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/29926-syrian-opposition-group-rejects-qaida-interference", 
+                        "source": null, 
                         "text": "Syrian Opposition Group Rejects Qaida Interference"
                     }
                 ]
@@ -2238,6 +2479,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6361", 
+                        "source": null, 
                         "text": "30 Martyrs 13-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2251,6 +2493,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6416", 
+                        "source": null, 
                         "text": "49 Martyrs 14-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2264,6 +2507,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20140903123439/http://www.crescent-news.com/ap%20international/2012/02/15/syria-to-hold-referendum-on-new-draft-constitution", 
+                        "source": "the original", 
                         "text": "Syria to hold referendum on new draft constitution"
                     }
                 ]
@@ -2273,6 +2517,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/15/194722.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian regime deliberately jams Al Arabiya transmission"
                     }
                 ]
@@ -2282,6 +2527,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/", 
+                        "source": null, 
                         "text": "Local coordination committees of Syria"
                     }
                 ]
@@ -2291,6 +2537,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/15/194728.html", 
+                        "source": "Al Arabiya", 
                         "text": "More shelling in Homs neighborhoods as Syrian forces shun international pressure"
                     }
                 ]
@@ -2304,6 +2551,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/2012216125039906383.html", 
+                        "source": "Al Jazeera", 
                         "text": "UN set for Syria vote amid crackdown"
                     }
                 ]
@@ -2313,6 +2561,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6484", 
+                        "source": null, 
                         "text": "More Martyrs 16-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2322,6 +2571,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17065056", 
+                        "source": "BBC News", 
                         "text": "Syria crisis: UN assembly adopts Arab-backed resolution"
                     }
                 ]
@@ -2335,6 +2585,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6499", 
+                        "source": null, 
                         "text": "Syria Today 17-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2344,6 +2595,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/17/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Syrian protesters hail 'resistance'"
                     }
                 ]
@@ -2353,6 +2605,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/17/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Syrian protesters hail 'resistance'"
                     }
                 ]
@@ -2362,6 +2615,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/17/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Syrian protesters hail 'resistance'"
                     }
                 ]
@@ -2375,6 +2629,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201221805334292171.html", 
+                        "source": "Al Jazeera", 
                         "text": "Chinese diplomat in Syria for talks on unrest"
                     }
                 ]
@@ -2384,6 +2639,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-17-2012-1834", 
+                        "source": "Al Jazeera", 
                         "text": "Fri, 17 Feb 2012, 18:34"
                     }
                 ]
@@ -2393,6 +2649,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-feb-17-2012-1755", 
+                        "source": "Al Jazeera", 
                         "text": "Syria Live Blog Fri, 17 Feb 2012, 17:55"
                     }
                 ]
@@ -2406,6 +2663,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/18/195436.html", 
+                        "source": "Al Arabiya", 
                         "text": "At least 21 killed in Syria as mass protest erupts close to Assad\u2019s palace in Damascus"
                     }
                 ]
@@ -2419,6 +2677,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/20122197221461654.html", 
+                        "source": "Al Jazeera", 
                         "text": "Iran warships 'dock in Syria's Tartous port'"
                     }
                 ]
@@ -2428,6 +2687,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17090326", 
+                        "source": "BBC News", 
                         "text": "Egypt recalls ambassador from Syria as violence rages"
                     }
                 ]
@@ -2441,6 +2701,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6559", 
+                        "source": null, 
                         "text": "23 Martyrs 19-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2454,6 +2715,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6588", 
+                        "source": null, 
                         "text": "Syria This evening 20-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2463,6 +2725,7 @@
                 "refs": [
                     {
                         "href": "http://www.theaustralian.com.au/news/world/the-people-of-the-world-have-abandoned-us-now-we-just-ask-god-for-help/story-fnb64oi6-1226278512520", 
+                        "source": "The Australian", 
                         "text": "The people of the world have abandoned us. Now we just ask God for help"
                     }
                 ]
@@ -2476,10 +2739,12 @@
                 "refs": [
                     {
                         "href": "http://www.foxnews.com/world/2012/02/20/syrian-army-reinforcements-head-to-homs-ahead-suspected-offensive/", 
+                        "source": "Fox News", 
                         "text": "Syrian forces mass outside rebel stronghold as Russia plans to submit aid proposal"
                     }, 
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9094970/Syria-opposition-calls-on-UN-to-protect-Homs.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syria: opposition calls on UN to protect Homs"
                     }
                 ]
@@ -2489,6 +2754,7 @@
                 "refs": [
                     {
                         "href": "http://www.egyptindependent.com/node/672276", 
+                        "source": "Egypt Independent", 
                         "text": "Iranian navy ships return from Syria through Suez"
                     }
                 ]
@@ -2498,6 +2764,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/programmes/insidestory/2012/02/201222085544949333.html", 
+                        "source": "Al Jazeera", 
                         "text": "Iran and Syria: A show of strength and unity"
                     }
                 ]
@@ -2507,6 +2774,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6608", 
+                        "source": null, 
                         "text": "Syria Today 21-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2520,6 +2788,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9097762/Syria-Sunday-Times-journalist-Marie-Colvin-killed-in-Homs.html", 
+                        "source": null, 
                         "text": "Syria: Sunday Times journalist Marie Colvin 'killed in Homs'"
                     }
                 ]
@@ -2529,6 +2798,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/22/196325.html", 
+                        "source": "Al Arabiya", 
                         "text": "92 killed across Syria as opposition says military intervention may be only solution"
                     }
                 ]
@@ -2542,6 +2812,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/23/196574.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian death toll mounts as Russia and China reject foreign intervention"
                     }
                 ]
@@ -2551,6 +2822,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6686", 
+                        "source": null, 
                         "text": "Bloody Day in Syria 23-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2560,6 +2832,7 @@
                 "refs": [
                     {
                         "href": "http://af.reuters.com/article/topNews/idAFJOE81N00Y20120224", 
+                        "source": "Reuters Africa", 
                         "text": "UN-Arab League envoy Annan calls for peace in Syria"
                     }
                 ]
@@ -2577,14 +2850,17 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201222415140240588.html", 
+                        "source": "Al Jazeera", 
                         "text": "Diplomats seek ways to end Syria bloodshed"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/24/196755.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syria\u2019s opposition SNC outlines post-Assad vision and reaches out to Kurds"
                     }, 
                     {
                         "href": "http://www.usatoday.com/news/world/story/2012-02-24/syria-tunis-conference/53231034/1", 
+                        "source": "USA Today", 
                         "text": "Clinton blasts Russia, China for opposing action on Syria"
                     }
                 ]
@@ -2594,6 +2870,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/24/us-syria-palestinians-idUSTRE81N1CC20120224", 
+                        "source": null, 
                         "text": "Hamas ditches Assad, backs Syrian revolt"
                     }
                 ]
@@ -2603,6 +2880,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/24/196740.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian rebels get arms from abroad as Russia calls for an urgent ceasefire in Homs"
                     }
                 ]
@@ -2612,6 +2890,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/02/201222415140240588.html", 
+                        "source": "Al Jazeera", 
                         "text": "Diplomats seek ways to end Syria bloodshed"
                     }
                 ]
@@ -2621,6 +2900,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/24/us-syria-killing-toll-idUSTRE81N21U20120224", 
+                        "source": null, 
                         "text": "Assad's forces kill 103 in Homs, rest of Syria: group"
                     }
                 ]
@@ -2634,6 +2914,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/25/196871.html", 
+                        "source": "Al Arabiya", 
                         "text": "At least 100 killed in Syria as army bombards opposition strongholds"
                     }
                 ]
@@ -2647,6 +2928,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/26/us-syria-idUSL5E8DB0BH20120226", 
+                        "source": null, 
                         "text": "Syria referendum goes ahead amid military onslaught"
                     }
                 ]
@@ -2656,6 +2938,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/02/26/197147.html", 
+                        "source": "Al Arabiya", 
                         "text": "Scores killed in Syria as Assad puts new constitution to vote"
                     }
                 ]
@@ -2665,6 +2948,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/casablanca-feb-26-2012-2022", 
+                        "source": "Al Jazeera", 
                         "text": "Casablanca - Feb 26, 2012 - 20:22"
                     }
                 ]
@@ -2678,6 +2962,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9108153/EU-agrees-further-Syria-sanctions.html", 
+                        "source": "Telegraph", 
                         "text": "EU agrees further Syria sanctions"
                     }
                 ]
@@ -2687,10 +2972,12 @@
                 "refs": [
                     {
                         "href": "http://www.montrealgazette.com/news/world/civilians+killed+Homs+region+massacre+Report/6217100/story.html", 
+                        "source": "Montreal Gazette", 
                         "text": "68 civilians killed in Homs region 'massacre': Report"
                     }, 
                     {
                         "href": "http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/middleeast/2012/February/middleeast_February770.xml&section=middleeast", 
+                        "source": "Khaleej Times", 
                         "text": "68 civilians killed in Homs region \u2018massacre\u2019"
                     }
                 ]
@@ -2700,6 +2987,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/02/27/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Syrian minister vows to defend 'independence' as deaths mount"
                     }
                 ]
@@ -2713,6 +3001,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6835", 
+                        "source": null, 
                         "text": "More Killing 28-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2722,6 +3011,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/02/28/us-syria-tunisia-asylum-idUSTRE81R18H20120228", 
+                        "source": null, 
                         "text": "Tunisia says ready to give asylum to Syria's Assad"
                     }
                 ]
@@ -2731,6 +3021,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/2012/02/28/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "U.N.: Syria death toll 'well over' 7,500"
                     }
                 ]
@@ -2744,6 +3035,7 @@
                 "refs": [
                     {
                         "href": "http://www.independent.co.uk/news/world/middle-east/syria-troops-advance-on-rebel-area-7463906.html", 
+                        "source": "The Independent", 
                         "text": "Syria troops advance on rebel area"
                     }
                 ]
@@ -2753,6 +3045,7 @@
                 "refs": [
                     {
                         "href": "http://edition.cnn.com/video/?/video/world/2012/02/29/starr-syria-us-military-plans.cnn", 
+                        "source": "CNN", 
                         "text": "U.S. military plans for Syria"
                     }
                 ]
@@ -2762,6 +3055,7 @@
                 "refs": [
                     {
                         "href": "http://www.newsvine.com/_news/2012/02/29/10539796-syria-bars-un-humanitarian-chief-from-visiting", 
+                        "source": null, 
                         "text": "UN demands Syria allow in humanitarian chief"
                     }
                 ]
@@ -2771,6 +3065,7 @@
                 "refs": [
                     {
                         "href": "http://uk.reuters.com/article/2012/02/29/uk-syria-libya-aid-idUKTRE81S1DS20120229", 
+                        "source": "Reuters UK", 
                         "text": "Libya to give Syrian opposition $100 million in aid"
                     }
                 ]
@@ -2780,6 +3075,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6887", 
+                        "source": null, 
                         "text": "30 Martyrs 29-2-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2793,6 +3089,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6963", 
+                        "source": null, 
                         "text": "More Killing 1-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2802,6 +3099,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/uk-politics-17218554", 
+                        "source": "BBC News", 
                         "text": "Hague: British Embassy in Damascus 'suspended'"
                     }
                 ]
@@ -2815,10 +3113,12 @@
                 "refs": [
                     {
                         "href": "http://english.ahram.org.eg/NewsContent/2/8/35871/World/Region/Demos-under-fire-in-Aleppo,-Damascus-activists.aspx", 
+                        "source": "Ahram Online", 
                         "text": "Demos under fire in Aleppo, Damascus: activists"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/02/198163.html", 
+                        "source": "Al Arabiya", 
                         "text": "Death toll mounts as demos come under fire; Red Cross not allowed to enter Baba Amro"
                     }
                 ]
@@ -2828,6 +3128,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/6998", 
+                        "source": null, 
                         "text": "Syria 2-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2837,6 +3138,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17228912", 
+                        "source": "BBC News", 
                         "text": "Red Cross convoy arrives in Homs bringing Baba Amr aid"
                     }
                 ]
@@ -2850,6 +3152,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/32147-17-killed-in-syria-violence-as-syrian-free-army-kill-100-soldiers-in-reef-damascus", 
+                        "source": "Naharnet", 
                         "text": "177 Killed in Syria Clashes"
                     }
                 ]
@@ -2859,6 +3162,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/03/03/us-syria-explosion-idUSTRE82209G20120303", 
+                        "source": null, 
                         "text": "Suicide bomber kills 2 in Syria: SANA news agency"
                     }
                 ]
@@ -2872,6 +3176,7 @@
                 "refs": [
                     {
                         "href": "http://www.ft.com/intl/cms/s/0/b9849b72-660b-11e1-acea-00144feabdc0.html", 
+                        "source": "Financial Times", 
                         "text": "Seven reported killed as Syria shells town"
                     }
                 ]
@@ -2881,6 +3186,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/03/20123443923492904.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syrian forces renew assault on Homs"
                     }
                 ]
@@ -2890,6 +3196,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/04/198600.html", 
+                        "source": "Al Arabiya", 
                         "text": "Assad\u2019s father-in-law \u2018horrified,\u2019 fears for his daughter: report"
                     }
                 ]
@@ -2903,6 +3210,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7154", 
+                        "source": null, 
                         "text": "Syria Now 5-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2916,6 +3224,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/06/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Opposition: 39 killed in Syria as regime attacks escape route to Lebanon"
                     }
                 ]
@@ -2929,6 +3238,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7223", 
+                        "source": null, 
                         "text": "Syria Today 7-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2938,6 +3248,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/03/07/us-syria-un-russia-idUSTRE8261YE20120307", 
+                        "source": "Reuters", 
                         "text": "Russia accuses Libya of training Syrian rebels"
                     }
                 ]
@@ -2947,6 +3258,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17295748", 
+                        "source": "BBC", 
                         "text": "Syria's deputy oil minister announces resignation"
                     }
                 ]
@@ -2960,6 +3272,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7309", 
+                        "source": null, 
                         "text": "More Martyrs 8-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2973,6 +3286,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7347", 
+                        "source": null, 
                         "text": "82 Martyrs 9-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -2982,10 +3296,12 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/03/09/us-syria-tanks-idUSBRE8280GK20120309", 
+                        "source": "Reuters", 
                         "text": "31 dead in Syria, mortars land on protests"
                     }, 
                     {
                         "href": "https://web.archive.org/20120502125348/http://www.straitstimes.com/BreakingNews/World/Story/STIStory_775789.html", 
+                        "source": "the original", 
                         "text": "Tens of thousands demonstrate across Syria"
                     }
                 ]
@@ -2995,6 +3311,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120502090202/http://worldnews.msnbc.msn.com/_news/2012/03/08/10613372-rebels-four-more-generals-defect-from-syrian-army", 
+                        "source": "MSNBC", 
                         "text": "Rebels: Four more generals defect from Syrian army"
                     }
                 ]
@@ -3004,6 +3321,7 @@
                 "refs": [
                     {
                         "href": "http://online.wsj.com/article/SB10001424052970204603004577271011904986808.html", 
+                        "source": null, 
                         "text": "Syrian Brass Defect, Buoying Rebels"
                     }
                 ]
@@ -3017,6 +3335,7 @@
                 "refs": [
                     {
                         "href": "http://www.news24.com/World/News/Assad-meets-Annan-on-Syrian-crisis-20120310", 
+                        "source": "France 24", 
                         "text": "Assad meets Annan on Syrian crisis"
                     }
                 ]
@@ -3026,6 +3345,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7394", 
+                        "source": null, 
                         "text": "63 Martyrs 10-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3039,6 +3359,7 @@
                 "refs": [
                     {
                         "href": "http://www.asianews.it/news-en/Syria-welcomes-Kofi-Annan-with-more-than-80-dead-24200.html", 
+                        "source": "Asia News", 
                         "text": "SYRIA Syria welcomes Kofi Annan with more than 80 dead"
                     }
                 ]
@@ -3048,6 +3369,7 @@
                 "refs": [
                     {
                         "href": "http://www.jpost.com/Headlines/Article.aspx?id=261395", 
+                        "source": null, 
                         "text": "Report: Clashes erupt between Syria troops, FSA in Damascus"
                     }
                 ]
@@ -3061,6 +3383,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/03/201231203843221328.html", 
+                        "source": "Al Jazeera", 
                         "text": "'Massacre' in Homs as Idlib endures assault"
                     }
                 ]
@@ -3070,6 +3393,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7527", 
+                        "source": null, 
                         "text": "Syria Today 12-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3083,6 +3407,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9141803/Syrian-forces-kill-more-than-40-outside-mosque-in-Idlib.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Syrian forces 'kill more than 40 outside mosque in Idlib'"
                     }
                 ]
@@ -3092,6 +3417,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7556", 
+                        "source": null, 
                         "text": "More Killing 13-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3105,6 +3431,7 @@
                 "refs": [
                     {
                         "href": "http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=376129", 
+                        "source": null, 
                         "text": "Lebanon news - NOW Lebanon -Al-Jazeera: Syrian security forces kill 76, activists say"
                     }
                 ]
@@ -3118,10 +3445,12 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/03/2012314201510748320.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria marks revolt anniversary amid violence"
                     }, 
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/15/200783.html", 
+                        "source": "Al Arabiya", 
                         "text": "As revolt against Assad enters 2nd year, \u2018up to 500,000\u2019 Syrians may flee crackdown"
                     }
                 ]
@@ -3131,6 +3460,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/15/world/meast/syria-unrest", 
+                        "source": "CNN", 
                         "text": "One year later, Syria still boiling"
                     }
                 ]
@@ -3140,10 +3470,12 @@
                 "refs": [
                     {
                         "href": "http://www.sana.sy/eng/337/2012/05/26/421559.htm", 
+                        "source": "Syrian Arab News Agency", 
                         "text": "New Massacres by al-Qaeda-linked Terrorist Groups against Families in al-Shumariyeh and Taldo in Homs Countryside"
                     }, 
                     {
                         "href": "http://www.dp-news.com/en/detail.aspx?articleid=121906", 
+                        "source": "DP News", 
                         "text": "Syria: Armed Terrorist Groups committed Taldao, al-Shoumarieh Massacres"
                     }
                 ]
@@ -3157,14 +3489,17 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/03/2012316151534313917.html", 
+                        "source": "Al Jazeera", 
                         "text": "Annan renews call for UN unity on Syria"
                     }, 
                     {
                         "href": "http://www.huffingtonpost.com/2012/03/16/syria-crisis-clashes-damascus_n_1352765.html", 
+                        "source": "Huffington Post", 
                         "text": "Syria Crisis: Clashes Near Capital Damascus, Activist Say"
                     }, 
                     {
                         "href": "http://archive.is/Q0qI", 
+                        "source": "the original", 
                         "text": "Lebanon news - NOW Lebanon -Live blog on developments in Syria"
                     }
                 ]
@@ -3174,6 +3509,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9149448/Turkey-urges-nationals-to-leave-Syria-as-it-considers-buffer-zone.html", 
+                        "source": "The Daily Telegraph", 
                         "text": "Turkey urges nationals to leave Syria as it considers buffer zone"
                     }
                 ]
@@ -3183,6 +3519,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/", 
+                        "source": null, 
                         "text": "Local coordination committees of Syria"
                     }
                 ]
@@ -3196,6 +3533,7 @@
                 "refs": [
                     {
                         "href": "http://www.independent.co.uk/news/world/middle-east/at-least-27-killed-in-damascus-blasts-7576003.html", 
+                        "source": "The Independent", 
                         "text": "At least 27 killed in Damascus blasts"
                     }
                 ]
@@ -3205,6 +3543,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/17/world/meast/syria-unrest", 
+                        "source": "CNN", 
                         "text": "Explosions rock Syrian capital"
                     }
                 ]
@@ -3218,6 +3557,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17423157", 
+                        "source": "BBC News", 
                         "text": "Syria unrest: Car bomb in Aleppo"
                     }
                 ]
@@ -3227,6 +3567,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/33803-at-least-20-dead-as-syrian-forces-assault-protest-hubs", 
+                        "source": null, 
                         "text": "At Least 41 Dead as Syrian Forces Assault Protest Hubs \u2014 Naharnet"
                     }
                 ]
@@ -3240,6 +3581,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/03/20123191073517388.html", 
+                        "source": "Al Jazeera", 
                         "text": "Al Jazeera obtains secret Syria files"
                     }
                 ]
@@ -3249,6 +3591,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/19/201601.html", 
+                        "source": "Al Arabiya", 
                         "text": "Heavy fighting reported in Damascus; U.N., OIC team visit to assess impact of violence"
                     }
                 ]
@@ -3258,6 +3601,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20130514023511/http://www.google.com/hostednews/afp/article/ALeqM5incQo_QrhnRZts7cTR6a3hsg5x9A?docId=CNG.1b8f7ac940bf7703a478ec2514dd94e4.2e1", 
+                        "source": "Google News", 
                         "text": "AFP: Two more Syrian generals defect: Turkish diplomat"
                     }
                 ]
@@ -3267,6 +3611,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/19/world/meast/syria-unrest/", 
+                        "source": "CNN", 
                         "text": "Syrian rebels move in on key Damascus neighborhood"
                     }
                 ]
@@ -3280,10 +3625,12 @@
                 "refs": [
                     {
                         "href": "http://www.kuna.net.kw/ArticleDetails.aspx?id=2228529&Language=en", 
+                        "source": null, 
                         "text": "42 people killed in Syria today - local cmtes - General - 20/03/2012"
                     }, 
                     {
                         "href": "http://www.israelnationalnews.com/News/Flash.aspx/235305", 
+                        "source": null, 
                         "text": "57 Dead in Syria on Tuesday"
                     }
                 ]
@@ -3297,6 +3644,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/21/world/meast/syria-unrest/", 
+                        "source": "CNN", 
                         "text": "Syria hammers Homs; Security Council backs Annan mission"
                     }
                 ]
@@ -3310,6 +3658,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/22/202481.html", 
+                        "source": "Al Arabiya", 
                         "text": "More deaths despite U.N. peace call; Syria using \u2018Homs tactics\u2019 on border town: HRW"
                     }
                 ]
@@ -3319,6 +3668,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/mar/22/syria-crisis-live-updates#block-11", 
+                        "source": null, 
                         "text": "Syria crisis - Thursday 22 March 2012"
                     }
                 ]
@@ -3332,6 +3682,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/23/202689.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syria towns under fire as thousands protest prior to Annan\u2019s visit to Moscow, Beijing"
                     }
                 ]
@@ -3341,6 +3692,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2012/03/23/world/middleeast/syria-dozens-killed-as-violence-surges.html", 
+                        "source": "The New York Times", 
                         "text": "Syria: Dozens Killed as Violence Surges"
                     }
                 ]
@@ -3350,6 +3702,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/24/202771.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syrian pilot rejects orders to kill protesters, heads to Turkey: opposition"
                     }
                 ]
@@ -3363,6 +3716,7 @@
                 "refs": [
                     {
                         "href": "http://www.kuna.net.kw/ArticleDetails.aspx?id=2229418&language=en", 
+                        "source": null, 
                         "text": "45 people killed in Syria today - opposition - Military and Security - 24/03/2012"
                     }
                 ]
@@ -3376,6 +3730,7 @@
                 "refs": [
                     {
                         "href": "http://www.globalpost.com/dispatch/news/regions/middle-east/120325/syria-morek-massacre-brings-todays-death-toll-65-video", 
+                        "source": null, 
                         "text": "Syria: 'Morek massacre' brings today's death toll to 65 (Video)"
                     }
                 ]
@@ -3389,6 +3744,7 @@
                 "refs": [
                     {
                         "href": "http://www.cnn.com/2012/03/26/world/meast/syria-unrest/index.html", 
+                        "source": "CNN", 
                         "text": "Annan says Syrian crisis can't 'drag on indefinitely'"
                     }
                 ]
@@ -3398,6 +3754,7 @@
                 "refs": [
                     {
                         "href": "http://news.monstersandcritics.com/middleeast/news/article_1695643.php/Syria-shells-Homs-as-rebels-attack-army-in-Damascus", 
+                        "source": null, 
                         "text": "Syria shells Homs as rebels attack army in Damascus - Monsters and Critics"
                     }
                 ]
@@ -3407,6 +3764,7 @@
                 "refs": [
                     {
                         "href": "http://www.haaretz.com/news/middle-east/syrian-air-force-intelligence-chief-killed-opposition-websites-report-1.420782", 
+                        "source": null, 
                         "text": "Syrian Air Force intelligence chief killed, opposition websites report"
                     }
                 ]
@@ -3420,6 +3778,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7711", 
+                        "source": null, 
                         "text": "From Syria 27-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3433,6 +3792,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7735", 
+                        "source": null, 
                         "text": "More Martyrs 28-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3442,6 +3802,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/media/greenslade/2012/mar/28/journalist-safety-syria", 
+                        "source": "The Guardian", 
                         "text": "Two British journalists killed in Syria"
                     }
                 ]
@@ -3455,6 +3816,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7749", 
+                        "source": null, 
                         "text": "Syria 29-3-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3464,6 +3826,7 @@
                 "refs": [
                     {
                         "href": "http://www.nytimes.com/2012/03/30/world/middleeast/aleppo-syria-attackers-kill-two-officers.html", 
+                        "source": "The New York Times", 
                         "text": "Syrian Rebels Kill At Least 2 Military Officials"
                     }
                 ]
@@ -3473,6 +3836,7 @@
                 "refs": [
                     {
                         "href": "http://www.guardian.co.uk/world/middle-east-live/2012/mar/29/syria-crisis-arab-league-summit-live?CMP=NECNETTXT8187", 
+                        "source": "The Guardian", 
                         "text": "Syria crisis: Assad responds to peace plan"
                     }
                 ]
@@ -3486,14 +3850,17 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/03/30/204234.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syria fighting rages as protesters march nationwide against Arab inaction"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/7757", 
+                        "source": null, 
                         "text": "Syria Today 30-3-2012 | Local coordination committees of Syria"
                     }, 
                     {
                         "href": "http://news.yahoo.com/syria-clashes-protests-complicate-peace-mission-184321911.html", 
+                        "source": null, 
                         "text": "Syria clashes, protests complicate peace mission"
                     }
                 ]
@@ -3507,6 +3874,7 @@
                 "refs": [
                     {
                         "href": "http://www.kuna.net.kw/ArticleDetails.aspx?id=2230954&Language=en", 
+                        "source": null, 
                         "text": "Syria violence kills over 40 people Sat. - opposition - General - 31/03/2012"
                     }
                 ]
@@ -3520,6 +3888,7 @@
                 "refs": [
                     {
                         "href": "http://cnsnews.com/news/article/clashes-across-syria-ahead-annans-un-briefing", 
+                        "source": "CNS News", 
                         "text": "Clashes across Syria ahead of Annan's UN briefing"
                     }
                 ]
@@ -3533,6 +3902,7 @@
                 "refs": [
                     {
                         "href": "http://www.kuna.net.kw/ArticleDetails.aspx?id=2231346&Language=en", 
+                        "source": null, 
                         "text": "Death toll of Syria attacks up to 140 - General - 02/04/2012"
                     }
                 ]
@@ -3546,6 +3916,7 @@
                 "refs": [
                     {
                         "href": "http://www.naharnet.com/stories/en/35580-29-dead-as-syrian-forces-steps-up-assaults", 
+                        "source": null, 
                         "text": "29 Dead as Syrian Forces Steps Up Assaults \u2014 Naharnet"
                     }
                 ]
@@ -3555,10 +3926,12 @@
                 "refs": [
                     {
                         "href": "http://web.archive.org/web/20120406143628/http://timesofindia.indiatimes.com:80/world/middle-east/Syria-violence-killed-80-people-on-Tuesday-Monitors/articleshow/12530848.cms", 
+                        "source": "The Times Of India", 
                         "text": "Syria violence killed 80 people on Tuesday: Monitors"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/7799", 
+                        "source": null, 
                         "text": "Tuesday came to a close with the fall of 74 martyrs | Local coordination committees of Syria"
                     }
                 ]
@@ -3572,6 +3945,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/04/205276.html", 
+                        "source": "Al Arabiya", 
                         "text": "Fierce attacks across Syria leave 101 dead; Annan sets to address U.N. on crisis"
                     }
                 ]
@@ -3585,6 +3959,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7830", 
+                        "source": null, 
                         "text": "77 Martyrs 5-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3598,6 +3973,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/06/205858.html", 
+                        "source": "Al Arabiya", 
                         "text": "Thousands demonstrate in Syria as violence rages before ceasefire deadline"
                     }
                 ]
@@ -3607,6 +3983,7 @@
                 "refs": [
                     {
                         "href": "http://www.reuters.com/article/2012/04/06/syria-idUSL6E8F60V320120406", 
+                        "source": null, 
                         "text": "WRAPUP 5-Syrian violence claims 27 dead in run-up to truce"
                     }
                 ]
@@ -3616,6 +3993,7 @@
                 "refs": [
                     {
                         "href": "http://web.archive.org/web/20130610014931/http://www.ajc.com/news/nation-world/syrian-refugees-flee-violence-1408682.html", 
+                        "source": "the original", 
                         "text": "Syrian refugees flee violence, talk of mass graves"
                     }
                 ]
@@ -3629,6 +4007,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/07/205941.html", 
+                        "source": "Al Arabiya", 
                         "text": "Syria death toll exceeds 150 as killing escalates ahead of ceasefire deadline"
                     }
                 ]
@@ -3642,6 +4021,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7885", 
+                        "source": null, 
                         "text": "Syria Now 8-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3655,6 +4035,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7911", 
+                        "source": null, 
                         "text": "160 Martyrs 9-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3664,6 +4045,7 @@
                 "refs": [
                     {
                         "href": "https://web.archive.org/20120415044343/http://www.newser.com:80/article/d9u1e0e00/security-officials-lebanese-journalist-killed-by-gunfire-along-the-syrian-border.html", 
+                        "source": "the original", 
                         "text": "Security officials: Lebanese journalist killed by gunfire along the Syrian border"
                     }
                 ]
@@ -3673,6 +4055,7 @@
                 "refs": [
                     {
                         "href": "http://www.independent.co.uk/news/world/middle-east/journalist-killed-by-gunfire-at-lebanesesyrian-border-7627870.html", 
+                        "source": null, 
                         "text": "Journalist killed by gunfire at Lebanese-Syrian border"
                     }
                 ]
@@ -3686,6 +4069,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7920", 
+                        "source": null, 
                         "text": "Syria Today 10-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3699,6 +4083,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7939", 
+                        "source": null, 
                         "text": "From Syria 11-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3712,6 +4097,7 @@
                 "refs": [
                     {
                         "href": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9199605/Syria-cease-fire-Live.html", 
+                        "source": null, 
                         "text": "Syria ceasefire: latest"
                     }
                 ]
@@ -3721,6 +4107,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/7978", 
+                        "source": null, 
                         "text": "From Syria 12-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3734,6 +4121,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17705614", 
+                        "source": "BBC News", 
                         "text": "Syria ceasefire: Security forces 'fire at protesters'"
                     }
                 ]
@@ -3747,6 +4135,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8013", 
+                        "source": null, 
                         "text": "More Martyrs 14-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3760,6 +4149,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8024", 
+                        "source": null, 
                         "text": "Syria 15-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3773,6 +4163,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8053", 
+                        "source": null, 
                         "text": "Monday comes to a close with the fall of 55 martyrs | Local coordination committees of Syria"
                     }
                 ]
@@ -3786,10 +4177,12 @@
                 "refs": [
                     {
                         "href": "http://www.allvoices.com/contributed-news/11955787-syria-ceasefire-under-threat-as-at-least-67-killed-in-recent-violence", 
+                        "source": null, 
                         "text": "Syria cease-fire under threat as at least 67 killed in recent violence"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/8068", 
+                        "source": null, 
                         "text": "38 Martyrs in Idlib till Now 17-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3803,6 +4196,7 @@
                 "refs": [
                     {
                         "href": "http://www.bbc.co.uk/news/world-middle-east-17753306", 
+                        "source": "BBC News", 
                         "text": "Syria crisis: 'Gunfire' as UN team visits Damascus suburb"
                     }
                 ]
@@ -3816,6 +4210,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/04/201241913315177490.html", 
+                        "source": "Al Jazeera", 
                         "text": "Syria agrees to guidelines for UN observers"
                     }
                 ]
@@ -3829,6 +4224,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/19/208771.html", 
+                        "source": "Al Arabiya", 
                         "text": "Assad\u2019s \u2018Crisis Cell\u2019: leaked documents expose attempts to contain Syrian unrest"
                     }
                 ]
@@ -3838,6 +4234,7 @@
                 "refs": [
                     {
                         "href": "http://af.reuters.com/article/worldNews/idAFBRE83F0H120120422", 
+                        "source": "Reuters Africa", 
                         "text": "U.N. council authorizes up to 300 Syria truce monitors"
                     }
                 ]
@@ -3851,6 +4248,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/20/209069.html", 
+                        "source": "Al Arabiya", 
                         "text": "Protests sweep Syria amid shaky truce as U.N. negotiates wider access for aid agencies"
                     }
                 ]
@@ -3860,6 +4258,7 @@
                 "refs": [
                     {
                         "href": "http://blogs.aljazeera.net/liveblog/syria-apr-20-2012-1442", 
+                        "source": "Al Jazeera Blogs", 
                         "text": "Fri, 20 Apr 2012, 12:42 GMT+3 - Syria"
                     }
                 ]
@@ -3869,6 +4268,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/20/209069.html", 
+                        "source": null, 
                         "text": "[1]"
                     }
                 ]
@@ -3878,6 +4278,7 @@
                 "refs": [
                     {
                         "href": "http://www.sana.sy/eng/337/2012/04/21/413778.htm", 
+                        "source": null, 
                         "text": "\u0627\u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0644\u0644\u0623\u0646\u0628\u0627\u0621 - Syrian Arab News Agency"
                     }
                 ]
@@ -3891,6 +4292,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8101", 
+                        "source": null, 
                         "text": "Syria Today 21-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3904,6 +4306,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/23/209613.html", 
+                        "source": "Al Arabiya", 
                         "text": "Assad\u2019s forces kill 80 nationwide despite presence of U.N. monitors"
                     }
                 ]
@@ -3913,6 +4316,7 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/22/209469.html", 
+                        "source": null, 
                         "text": "Three Tunisians reported dead after joining Free Syrian Army"
                     }
                 ]
@@ -3926,10 +4330,12 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/23/209613.html", 
+                        "source": "Al Arabiya", 
                         "text": "Assad\u2019s forces kill 80 nationwide despite presence of U.N. monitors"
                     }, 
                     {
                         "href": "http://www.cnn.com/2012/04/23/world/meast/syria-unrest/index.html", 
+                        "source": null, 
                         "text": "Shelling hits Hama as more U.N. monitors expected in Syria"
                     }
                 ]
@@ -3943,6 +4349,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8163", 
+                        "source": null, 
                         "text": "38 Martyrs 24-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3956,6 +4363,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8176", 
+                        "source": null, 
                         "text": "100 Martyrs in Syria 25-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3965,6 +4373,7 @@
                 "refs": [
                     {
                         "href": "http://www.aljazeera.com/news/middleeast/2012/04/2012425223022589689.html", 
+                        "source": "Al Jazeera", 
                         "text": "Blast in Syria's Hama kills many"
                     }
                 ]
@@ -3978,6 +4387,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8200", 
+                        "source": null, 
                         "text": "More Martyrs 26-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -3991,10 +4401,12 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/27/210625.html", 
+                        "source": "Al Arabiya", 
                         "text": "Scores killed and injured as bombings rock Damascus amid massive demos"
                     }, 
                     {
                         "href": "https://web.archive.org/20120501112353/http://www.time.com/time/world/article/0,8599,2113314,00.html", 
+                        "source": "the original", 
                         "text": "Explosion Rocks Syrian Capital as Protesters Mass"
                     }
                 ]
@@ -4008,10 +4420,12 @@
                 "refs": [
                     {
                         "href": "http://english.alarabiya.net/articles/2012/04/28/210874.html", 
+                        "source": "Al Arabiya", 
                         "text": "Hundreds of Syrian troops defect near Damascus, Latakia, as clashes flare"
                     }, 
                     {
                         "href": "http://www.lccsyria.org/8208", 
+                        "source": null, 
                         "text": "Syria Today 28-4-2012 | Local coordination committees of Syria"
                     }
                 ]
@@ -4025,6 +4439,7 @@
                 "refs": [
                     {
                         "href": "http://www.lccsyria.org/8212", 
+                        "source": null, 
                         "text": "Syria Today 29-4-2012 | Local coordination committees of Syria"
                     }
                 ]

@@ -6,7 +6,7 @@ import wikipedia as wiki
 def run(page):
     soup = BeautifulSoup(page.html(), 'html.parser')
     lis = soup.select('.toclevel-3')
-    if not lis:
+    if not lis or 'April 2011' in page.title:
         lis = soup.select('.toclevel-2')
 
     refs = lis.pop()

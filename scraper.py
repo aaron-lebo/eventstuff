@@ -1,10 +1,19 @@
 from bs4 import BeautifulSoup
 import json
+import os
 import wikipedia as wiki
 
-events = {} 
 for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
     page = wiki.page(timeline)
+    path = '%s.json' % page.url.split('/')[-1]
+    if os.path.exists(path):
+        continue
+
+    print page.title + ' START'
+
+    events = {} 
+    file = open(path, 'wb')
+
     soup = BeautifulSoup(page.html(), 'html.parser')
     lis = soup.select('.toclevel-1')
     refs = lis.pop()
@@ -25,8 +34,10 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
                             if not part.string:
                                 continue
                             if part.name == 'sup':
-                                a = soup.select('%s .external' % part.a['href'])[0]
-                                refs.append({'text': a.text.strip('"'), 'href': a['href']})
+                                a = soup.select('%s .external' % part.a['href'])
+                                if a:
+                                    a = a[0]
+                                    refs.append({'text': a.text.strip('"'), 'href': a['href']})
                             else:
                                 event += part.string 
                             if event.strip() and (not part.next_sibling or refs and part.next_sibling.name != 'sup'):
@@ -35,8 +46,8 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
                                 refs = []
                 contents.append({item.a.contents[-1].text: ps}) 
         events[month] = contents
-    break
 
-file = open('events.json', 'wb')
-file.write(json.dumps(events))
-file.close()
+    file.write(json.dumps(events))
+    file.close()
+
+    print page.title + ' END'

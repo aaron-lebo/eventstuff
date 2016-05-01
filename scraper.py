@@ -5,7 +5,9 @@ import wikipedia as wiki
 
 def run(page):
     soup = BeautifulSoup(page.html(), 'html.parser')
-    lis = soup.select('.toclevel-2')
+    lis = soup.select('.toclevel-3')
+    if not lis:
+        lis = soup.select('.toclevel-2')
 
     refs = lis.pop()
     events = []
@@ -33,7 +35,7 @@ def run(page):
                             ps.append({'event': event.strip(), 'refs': refs})
                             event = ''
                             refs = []
-            events.append({item.a.contents[-1].text.replace('\u2013', ''): ps}) 
+            events.append({item.a.contents[-1].text: ps}) 
     return events
 
 for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:

@@ -578,27 +578,5 @@
                 ]
             }
         ]
-    }, 
-    {
-        "25 July": [
-            {
-                "event": "ISIL captures a Syrian 17th Division base near Raqqa and beheads several captured soldiers, whose heads are displayed in Raqqa.", 
-                "refs": [
-                    {
-                        "href": "http://www.ibtimes.co.in/isis-captures-syrian-military-base-raqqa-beheads-captured-soldiers-605356", 
-                        "text": "ISIS Captures Syrian Military Base in Raqqa, Beheads Soldiers"
-                    }
-                ]
-            }, 
-            {
-                "event": "32 jihadists and 42 Syrian Army members were overall killed on this day in clashes between ISIL and Syrian Army in Hasakeh, Raqqa and Aleppo provinces.", 
-                "refs": [
-                    {
-                        "href": "http://www.middle-east-online.com/english/?id=67317", 
-                        "text": "74 killed in IS assault on Syria regime territory"
-                    }
-                ]
-            }
-        ]
     }
 ]

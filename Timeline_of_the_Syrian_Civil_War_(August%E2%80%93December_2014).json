@@ -115,7 +115,7 @@
                 "refs": [
                     {
                         "href": "http://online.wsj.com/articles/rebels-in-syria-capture-border-crossing-by-israel-1409166944", 
-                        "source": ", ", 
+                        "source": "Wall Street Journal", 
                         "text": "Rebels in Syria Capture Border Crossing With Israel"
                     }
                 ]
@@ -702,7 +702,7 @@
                 "refs": [
                     {
                         "href": "http://uk.reuters.com/article/2014/10/24/uk-syria-crisis-military-idUKKCN0ID1DL20141024", 
-                        "source": ", Reuters, 24 October 2014.", 
+                        "source": null, 
                         "text": "Syrian army recaptures town in western Syria - state TV"
                     }
                 ]

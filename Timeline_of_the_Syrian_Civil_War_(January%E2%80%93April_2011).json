@@ -169,7 +169,7 @@
                     }, 
                     {
                         "href": "http://www.rfi.fr/moyen-orient/20110505-le-mouvement-contestation-flechit-pas", 
-                        "source": ", RFI, 5 May 2011. Retrieved 20 September 2013.", 
+                        "source": null, 
                         "text": "Le mouvement de contestation ne fl\u00e9chit pas en Syrie"
                     }
                 ]
@@ -313,7 +313,7 @@
                 "refs": [
                     {
                         "href": "http://www.israelnationalnews.com/News/News.aspx/143026#.TskzPVaGiSr", 
-                        "source": ", israelnationalnews, 21 March 2011. Retrieved 6 October 2013.", 
+                        "source": null, 
                         "text": "Syria: Seven Police Killed, Buildings Torched in Protests"
                     }
                 ]
@@ -323,7 +323,7 @@
                 "refs": [
                     {
                         "href": "http://www.israelnationalnews.com/News/News.aspx/143026#.TskzPVaGiSr", 
-                        "source": ", israelnationalnews, 21 March 2011. Retrieved 6 October 2013.", 
+                        "source": null, 
                         "text": "Syria: Seven Police Killed, Buildings Torched in Protests"
                     }
                 ]
@@ -507,7 +507,7 @@
                 "refs": [
                     {
                         "href": "http://www.washingtonpost.com/world/syrias-assad-moves-to-allay-fury-after-security-forces-fire-on-protesters/2011/03/26/AFFoZDdB_story.html", 
-                        "source": ", ", 
+                        "source": "The Washington Post", 
                         "text": "\u2018Syria\u2019s Assad moves to allay fury after security forces fire on protesters\u2019"
                     }
                 ]
@@ -532,7 +532,7 @@
                     }, 
                     {
                         "href": "http://www.washingtonpost.com/world/syrias-assad-moves-to-allay-fury-after-security-forces-fire-on-protesters/2011/03/26/AFFoZDdB_story.html", 
-                        "source": ", ", 
+                        "source": "The Washington Post", 
                         "text": "\u2018Syria\u2019s Assad moves to allay fury after security forces fire on protesters\u2019"
                     }
                 ]
@@ -587,7 +587,7 @@
                     }, 
                     {
                         "href": "http://www.al-bab.com/arab/docs/syria/bashar_assad_speech_110330.htm", 
-                        "source": ", translation as given on website ", 
+                        "source": "al-Bab", 
                         "text": "Full text of the speech by President Bashar al-Assad on 30 March 2011"
                     }
                 ]

@@ -17,20 +17,25 @@ def run(page):
             for sib in soup.select(item.a['href'])[0].parent.next_siblings:
                 if sib.name in ('h2', 'h3'):
                     break
+            
                 if sib.name:
                     if sib.name == 'ul':
                         sib = sib.contents[0]
+
                     event, refs = '', [] 
                     for part in sib.contents:
                         if not part.string:
                             continue
+
                         if part.name == 'sup':
                             a = soup.select('%s .external' % part.a['href'])
                             if a:
                                 a = a[0]
                                 next_sib = a.next_sibling
-                                while next_sib and next_sib.string and next_sib.string.strip().startswith('.'):
+                                string = next_sib and next_sib.string
+                                while string and (string.strip().startswith('.') or string.strip().startswith(',')):
                                     next_sib = next_sib.next_sibling
+                                    string = next_sib and next_sib.string
 
                                 refs.append({
                                     'text': a.text.strip('"'), 
@@ -39,6 +44,7 @@ def run(page):
                                 })
                         else:
                             event += part.string 
+
                         if event.strip() and (not part.next_sibling or refs and part.next_sibling.name != 'sup'):
                             ps.append({
                                 'event': event.strip(), 
@@ -46,7 +52,9 @@ def run(page):
                             })
                             event = ''
                             refs = []
+
             events.append({item.a.contents[-1].text: ps}) 
+
     return events
 
 for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:

@@ -38,5 +38,5 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
     break
 
 file = open('events.json', 'wb')
-file.write(json.dumps(events))
+file.write(json.dumps([events[k] for k in sorted(events)]))
 file.close()

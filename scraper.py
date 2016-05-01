@@ -7,6 +7,9 @@ def run(page):
     events = {}
     soup = BeautifulSoup(page.html(), 'html.parser')
     lis = soup.select('.toclevel-1')
+    if lis[0].a['href'] == '#Timeline':
+        lis = soup.select('.toclevel-2')
+
     refs = lis.pop()
     for li in lis:
         if li.a['href'] in ('#References', '#See_also'):

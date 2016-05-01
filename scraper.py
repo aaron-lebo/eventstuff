@@ -3,17 +3,8 @@ import json
 import os
 import wikipedia as wiki
 
-for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
-    page = wiki.page(timeline)
-    path = '%s.json' % page.url.split('/')[-1]
-    if os.path.exists(path):
-        continue
-
-    print page.title + ' START'
-
-    events = {} 
-    file = open(path, 'wb')
-
+def run(page):
+    events = {}
     soup = BeautifulSoup(page.html(), 'html.parser')
     lis = soup.select('.toclevel-1')
     refs = lis.pop()
@@ -44,10 +35,26 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
                                 ps.append({'event': event.strip(), 'refs': refs})
                                 event = ''
                                 refs = []
+
                 contents.append({item.a.contents[-1].text: ps}) 
         events[month] = contents
 
-    file.write(json.dumps(events))
+    return events
+
+for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
+    page = wiki.page(timeline)
+    path = '%s.json' % page.url.split('/')[-1]
+    if os.path.exists(path):
+        continue
+
+    print page.title + ' START'
+
+    events = run(page)
+    file = open(path, 'wb')
+    file.write(json.dumps(events, sort_keys=True, indent=4))
     file.close()
 
     print page.title + ' END'
+    
+
+

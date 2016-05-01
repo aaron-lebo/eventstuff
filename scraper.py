@@ -4,12 +4,11 @@ import os
 import wikipedia as wiki
 
 def run(page):
-    events = {}
     soup = BeautifulSoup(page.html(), 'html.parser')
     lis = soup.select('.toclevel-2')
 
     refs = lis.pop()
-    contents = []
+    events = []
     for item in lis:
         if hasattr(item, 'name') and item.name:
             ps = []
@@ -34,10 +33,7 @@ def run(page):
                             ps.append({'event': event.strip(), 'refs': refs})
                             event = ''
                             refs = []
-
-            contents.append({item.a.contents[-1].text: ps}) 
-
-    events = contents
+            events.append({item.a.contents[-1].text.replace('\u2013', ''): ps}) 
     return events
 
 for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:

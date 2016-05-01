@@ -16,14 +16,13 @@ def run(page):
             continue
 
         try:
-            li.contents[1]
+            items = li.contents[1]
         except:
-            print li
+            items = soup.select('.toclevel-2')
 
-        month = li.contents.pop(0).contents[-1].text
         contents = []
-        for item in li.contents[1]:
-            if item.name:
+        for item in items:
+            if hasattr(item, 'name') and item.name:
                 ps = []
                 for sib in soup.select(item.a['href'])[0].parent.next_siblings:
                     if sib.name in ('h2', 'h3'):
@@ -48,7 +47,7 @@ def run(page):
                                 refs = []
 
                 contents.append({item.a.contents[-1].text: ps}) 
-        events[month] = contents
+        events = contents
 
     return events
 

@@ -29,9 +29,8 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
                                 refs.append({'text': a.text.strip('"'), 'href': a['href']})
                             else:
                                 event += part.string 
-                            event = event.strip()
-                            if event and (not part.next_sibling or refs and part.next_sibling.name != 'sup'):
-                                ps.append({'event': event, 'refs': refs})
+                            if event.strip() and (not part.next_sibling or refs and part.next_sibling.name != 'sup'):
+                                ps.append({'event': event.strip(), 'refs': refs})
                                 event = ''
                                 refs = []
                 contents.append({item.a.contents[-1].text: ps}) 

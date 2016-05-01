@@ -55,6 +55,3 @@ for timeline in wiki.search('Timeline of the Syrian Civil War', results=14)[1:]:
     file.close()
 
     print page.title + ' END'
-    
-
-

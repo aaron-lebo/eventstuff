@@ -52,13 +52,20 @@ for n, path in enumerate(glob.glob('*.json')):
             sentence = etree.Element(
                 'Sentence',
                 date = '%s%s%s' % (year, day, MONTHS[date[1]]),
-                id = '%s.%s.%s' % (n, n2, n3),
+                id = '%s_%s_%s' % (n, n2, n3),
                 source = ref['source'] or ref['href'],
-                sentence = 'True'
+                sentence = 'False'
             )
             text = etree.Element('Text')
             text.text = event['event']
             sentence.append(text)
+            for r in event['refs']:
+                ref = etree.Element(
+                    'Ref',
+                    href = r['href'],
+                    source = r['source'] or ''
+                )
+                sentence.append(ref)
             root.append(sentence)
 
 f = open('events.xml', 'wb')

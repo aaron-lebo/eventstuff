@@ -4,7 +4,8 @@ dates = {}
 sources = {}
 
 tree = etree.parse('events.xml')
-for sentence in tree.findall('Sentence'):
+sentences = tree.findall('Sentence')
+for sentence in sentences:
     date = sentence.get('date')
     if not dates.get(date):
         dates[date] = {'count': 0, 'refs': 0, 'sources': []} 
@@ -23,5 +24,6 @@ for sentence in tree.findall('Sentence'):
 for date in dates:
     dates[date]['sources'] = len(dates[date]['sources'])
 
-print dates 
-print sources
+print len(sentences)
+#print sources
+#print dates 

@@ -51,7 +51,7 @@ for n, path in enumerate(glob.glob('*.json')):
             ref = event['refs'][0]
             sentence = etree.Element(
                 'Sentence',
-                date = '%s%s%s' % (year, day, MONTHS[date[1]]),
+                date = '%s%s%s' % (year, MONTHS[date[1]], day),
                 id = '%s_%s_%s' % (n, n2, n3),
                 source = ref['source'] or ref['href'],
                 sentence = 'False'
